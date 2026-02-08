@@ -1,7 +1,7 @@
 # 🎯 B2B Intelligent Lead Scoring System
 
 ### 🔗 [VER DEMO INTERACTIVA (Dashboard)](https://dashboard-lead-scoring.lovable.app)
-*Nota: pegar documento de
+*Nota: Subir en el dashboard interactivo el documento de scored_leads_final.csv para ver métricas.
 
 ---
 
