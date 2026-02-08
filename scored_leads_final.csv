@@ -1,0 +1,501 @@
+﻿id,nombre_completo,email_corporativo,cargo,empresa,sector,tamaño_empresa,fuente_lead,visitas_web,emails_abiertos,clicks_enlaces,descargo_whitepaper,pidio_demo,status_final,score_perfil,score_comportamiento,lead_score,segmento
+1,Albano Llopis Hierro,albanoll@desarrolloespañolass.l..com,Gerente de Ventas,Desarrollo Españolas S.L.,Finanzas,Micro,Email,6,4,0,False,True,Convertido,30,50,80,Hot Lead
+2,Antonia del Antón,antoniadelanton@familiagils.a.u.com.es,Director Comercial,Familia Gil S.A.U,Tecnología,Enterprise,Referido,14,7,4,False,False,Perdido,50,17,67,Warm Lead
+3,Alba Mar Flor Rivas,albamarf@supermercadosintegraless.l.l..com,Director de Tecnología,Supermercados Integrales S.L.L.,Finanzas,Pyme,Formulario,21,1,0,False,False,Perdido,45,11,56,Warm Lead
+4,Reynaldo Cuervo Rocamora,reynaldocuervorocamora@lobo&asociadoss.a.t..es,Director de Ventas,Lobo & Asociados S.A.T.,Retail,Enterprise,Linkedin,35,4,4,False,False,Perdido,40,14,54,Warm Lead
+5,Aroa Bru Pinto,aroabrup@mineriafpls.coop..com,VP de Ventas,Minería FPL S.Coop.,Salud,Pyme,Formulario,6,3,2,False,False,Perdido,35,9,44,Warm Lead
+6,Ani Marcos Pardo,animarcospardo@comercializadoracastellanas.l..com.es,Marketing Manager,Comercializadora Castellana S.L.,Finanzas,Enterprise,Email,10,4,1,True,True,Perdido,40,50,90,Hot Lead
+7,Aníbal Teófilo Guerrero Cabrero,anibalteofiloguerrerocabrero@loboysantanas.l..com,Sales Manager,Lobo y Santana S.L.,Salud,Enterprise,Web,2,1,1,False,False,Perdido,30,3,33,Cold Lead
+8,Candelas Pellicer Padilla,candelaspellicerpadilla@inmobiliariaespañolas.coop..es,Ejecutivo Comercial,Inmobiliaria Española S.Coop.,Salud,Enterprise,Email,29,2,1,True,False,Perdido,25,22,47,Warm Lead
+9,Juanito Hierro Cárdenas,juanitoh@reynaldolermagimenezs.l..com,Coordinador de Ventas,Reynaldo Lerma Gimenez S.L.,Educación,Pyme,Web,32,7,0,False,False,Perdido,35,17,52,Warm Lead
+10,Darío Antón Moles,darioantonmoles@lealybatallas.a.t..es,Director de Estrategia,Leal y Batalla S.A.T.,Retail,Enterprise,Referido,38,7,4,True,True,Perdido,40,50,90,Hot Lead
+11,Valentina Miranda-Garcia,v.valentinamiranda-garcia@ruysegarraclaveros.c.p.com,Gerente de Ventas,Ruy Segarra Clavero S.C.P,Educación,Pyme,Linkedin,18,6,1,False,False,Perdido,25,16,41,Warm Lead
+12,Ramón del Romero,r.ramondelromero@paredesygimenezs.l.u..com,Director Comercial,Paredes y Gimenez S.L.U.,Salud,Enterprise,Formulario,40,8,4,True,True,Convertido,40,50,90,Hot Lead
+13,José Manuel Uriarte Bou,josemanueluriartebou@familiacoronados.l..es,Asistente Comercial,Familia Coronado S.L.,Tecnología,Enterprise,Linkedin,7,2,1,False,False,Perdido,35,9,44,Warm Lead
+14,María Bartolomé Plaza,mariabar@soleyangels.c.p.com,VP de Ventas,Solé y Ángel S.C.P,Retail,Micro,Web,42,7,4,True,True,Convertido,30,50,80,Hot Lead
+15,Teodora de Carbó,teodoradecarbo@manufacturascantonyasociadoss.com..es,Asistente Comercial,Manufacturas Cantón y asociados S.Com.,Salud,Enterprise,Email,41,5,3,False,False,Perdido,25,15,40,Warm Lead
+16,Abril Lago Valle,abrillagovalle@construccionmartins.l.l..com.es,CEO,Construcción Martín S.L.L.,Educación,Enterprise,Web,0,0,0,False,False,Perdido,40,0,40,Warm Lead
+17,María Fernanda Flor,mariafer@promocionescuellars.coop..com,CTO,Promociones Cuéllar S.Coop.,Finanzas,Enterprise,Cold Call,8,5,4,False,False,Perdido,50,13,63,Warm Lead
+18,Ágata Abascal,a.agataabascal@torres&asociadoss.a..com,Gerente de Ventas,Torres & Asociados S.A.,Tecnología,Enterprise,Referido,26,7,5,True,False,Perdido,40,27,67,Warm Lead
+19,Valeria Meléndez Heras,valeriam@grupobermudezs.a..com,VP de Ventas,Grupo Bermúdez S.A.,Finanzas,Micro,Web,34,7,1,False,True,Convertido,40,50,90,Hot Lead
+20,Sabina Bayón Casas,sabinabayoncasas@tecnologiasdalmaus.c.p.com.es,Coordinador de Ventas,Tecnologías Dalmau S.C.P,Educación,Micro,Formulario,0,0,0,False,False,Perdido,30,0,30,Cold Lead
+21,Ileana Cloe Font Mesa,ileanacloefontmesa@pereayrioss.l.n.e.es,Gerente de Ventas,Perea y Ríos S.L.N.E,Salud,Pyme,Evento,50,7,2,False,False,Perdido,25,17,42,Warm Lead
+22,Azeneth Huguet Gomila,a.azenethhuguetgomila@manufacturasels.a.t..com,Marketing Manager,Manufacturas EL S.A.T.,Retail,Micro,Web,3,2,2,False,False,Convertido,20,5,25,Cold Lead
+23,Paulino Barral Granados,paulinobarralgranados@bancodmis.a.t..com.es,Sales Manager,Banco DMI S.A.T.,Educación,Micro,Linkedin,11,0,0,False,False,Perdido,20,10,30,Cold Lead
+24,Porfirio Suárez Herrero,porfiriosuarezherrero@noemiramirezfalcons.a..com.es,Analista de Marketing,Noemí Ramírez Falcón S.A.,Educación,Enterprise,Linkedin,26,10,4,False,False,Perdido,25,20,45,Warm Lead
+25,Felicidad Roda Reig,felicida@rosariobalaguercabellos.a..com,Gerente de Producto,Rosario Balaguer Cabello S.A.,Salud,Pyme,Email,41,4,3,False,False,Convertido,35,14,49,Warm Lead
+26,Rosalía Canales Ibarra,rosaliac@finanzasdelnortes.a..com,Sales Manager,Finanzas del Norte S.A.,Tecnología,Micro,Cold Call,16,2,1,False,False,Perdido,30,12,42,Warm Lead
+27,Emilio Sevillano Iborra,emiliosevillanoiborra@supermercadosfhcas.a..com,Director Comercial,Supermercados FHCA S.A.,Finanzas,Enterprise,Email,35,4,0,False,False,Perdido,50,14,64,Warm Lead
+28,Celso del Torralba,celsodeltorralba@ignacioquerobarrals.a..com.es,Director Comercial,Ignacio Quero Barral S.A.,Salud,Pyme,Web,45,5,1,False,False,Perdido,35,15,50,Warm Lead
+29,Guiomar Lara Sanz,g.guiomarlarasanz@suministrostorrecilla&asociadoss.a..com,Director de Ventas,Suministros Torrecilla & Asociados S.A.,Tecnología,Enterprise,Linkedin,0,1,0,False,False,Perdido,50,1,51,Warm Lead
+30,Ambrosio Barrera,ambrosiobarrera@barcelo&asociadoss.coop..com,Gerente Comercial,Barceló & Asociados S.Coop.,Educación,Micro,Email,9,4,0,False,False,Perdido,20,13,33,Cold Lead
+31,Ágata Criado,agatacri@familiaestevezs.a..com,Director de Operaciones,Familia Estevez S.A.,Finanzas,Micro,Email,15,1,1,False,False,Perdido,40,11,51,Warm Lead
+32,Nicolás Gutierrez Quintanilla,nicolasgutierrezquintanilla@industriasegves.coop..es,Gerente de Marketing,Industrias EGVE S.Coop.,Salud,Micro,Linkedin,11,5,2,False,False,Perdido,20,15,35,Cold Lead
+33,Cristian Miralles-Gómez,cristianmiralles-gomez@servicioscastroyasociadoss.coop..es,Analista de Marketing,Servicios Castro y asociados S.Coop.,Finanzas,Micro,Formulario,2,1,0,False,False,Perdido,25,3,28,Cold Lead
+34,Adalberto Sedano Cabo,adalbertosedanocabo@fabricanwtts.com..es,Analista de Marketing,Fábrica NWTT S.Com.,Salud,Micro,Evento,17,1,1,False,False,Perdido,15,11,26,Cold Lead
+35,Isidoro Mate Ángel,isidorom@hermanoscallejas.l.n.e.com,Ejecutivo Comercial,Hermanos Calleja S.L.N.E,Tecnología,Micro,Cold Call,16,0,0,False,False,Perdido,25,10,35,Cold Lead
+36,Eligio Carlos Campo,eligiocarloscampo@inmobiliarialujans.coop..com.es,Sales Manager,Inmobiliaria Luján S.Coop.,Tecnología,Pyme,Web,16,0,0,True,False,Perdido,35,20,55,Warm Lead
+37,Clara Laguna Vega,claralagunavega@joseazconabrus.l..com,Business Development,José Azcona Bru S.L.,Salud,Pyme,Email,21,9,2,False,True,Perdido,20,50,70,Hot Lead
+38,Alfredo Acevedo-Múgica,a.alfredoacevedo-mugica@infraestructurascuellars.l..com,Marketing Manager,Infraestructuras Cuéllar S.L.,Retail,Pyme,Cold Call,8,1,1,False,False,Perdido,25,9,34,Cold Lead
+39,Olalla del Agustí,olalladelagusti@comercializadoravcres.a..com,Director Comercial,Comercializadora VCRE S.A.,Finanzas,Pyme,Evento,18,3,3,False,False,Perdido,45,13,58,Warm Lead
+40,Alfonso Mendez Pastor,alfonsom@hermanosgallos.l..com,Marketing Manager,Hermanos Gallo S.L.,Salud,Enterprise,Email,5,2,2,False,False,Convertido,30,7,37,Cold Lead
+41,Galo Ramos Cortes,galoramo@distribucionesiberias.l.n.e.com,Analista de Marketing,Distribuciones Iberia S.L.N.E,Finanzas,Micro,Linkedin,2,0,0,False,False,Perdido,25,2,27,Cold Lead
+42,Chuy Márquez Requena,chuymarquezrequena@inmobiliariaiberias.l..es,Asistente Comercial,Inmobiliaria Iberia S.L.,Salud,Enterprise,Referido,15,2,2,False,False,Perdido,25,12,37,Cold Lead
+43,Graciano Arias Sosa,gracianoariassosa@finanzasdelnortes.com..es,Coordinador de Ventas,Finanzas del Norte S.Com.,Salud,Micro,Linkedin,35,3,0,False,False,Perdido,30,13,43,Warm Lead
+44,Dani de Ferrando,danideferrando@moyaylopezs.l.n.e.com.es,Asistente Comercial,Moya y Lopez S.L.N.E,Finanzas,Pyme,Referido,35,7,1,False,False,Perdido,30,17,47,Warm Lead
+45,Gabino Vergara-Pulido,gabinove@amoros&asociadoss.l.n.e.com,Director de Estrategia,Amorós & Asociados S.L.N.E,Finanzas,Enterprise,Evento,28,1,1,True,True,Perdido,50,50,100,Hot Lead
+46,Chuy Lara-Arenas,chuylara@suministroslqfs.coop..com,CTO,Suministros LQF S.Coop.,Salud,Pyme,Email,13,1,1,False,False,Perdido,35,11,46,Warm Lead
+47,Ximena Falcón Iñiguez,ximenafalconiñiguez@hnosabellans.coop..com.es,Director de Tecnología,Hnos Abellán S.Coop.,Retail,Enterprise,Referido,30,0,0,False,False,Perdido,40,10,50,Warm Lead
+48,Noelia de Pascual,noeliadepascual@becerraymurillos.l..es,Asistente Comercial,Becerra y Murillo S.L.,Educación,Enterprise,Web,17,6,3,True,True,Perdido,25,50,75,Hot Lead
+49,Plácido Mas Vendrell,placidomasvendrell@solucionesmorerayasociadoss.l..com.es,Gerente de Marketing,Soluciones Morera y asociados S.L.,Retail,Micro,Linkedin,25,9,4,False,True,Convertido,20,50,70,Hot Lead
+50,Belen de Rivero,b.belenderivero@davilaymascaros.com..com,Analista de Marketing,Dávila y Mascaró S.Com.,Tecnología,Pyme,Web,29,5,2,False,False,Perdido,30,15,45,Warm Lead
+51,Evaristo Madrid Gallo,evaristomadridgallo@montserratysolas.com..com.es,Ejecutivo Comercial,Montserrat y Sola S.Com.,Tecnología,Pyme,Linkedin,22,3,0,False,False,Perdido,30,13,43,Warm Lead
+52,José Mari Sáenz,josemari@compañialuzs.coop..com,Analista de Marketing,Compañía Luz S.Coop.,Tecnología,Enterprise,Web,30,10,0,False,True,Perdido,35,50,85,Hot Lead
+53,Eva María Araceli Gutierrez Menéndez,evamaria@finanzasglobaless.a..com,Analista de Marketing,Finanzas Globales S.A.,Educación,Enterprise,Evento,6,4,0,False,False,Perdido,25,10,35,Cold Lead
+54,Jordán de Sarabia,jordande@ferrerasyplanas.coop..com,Marketing Manager,Ferreras y Plana S.Coop.,Salud,Micro,Linkedin,44,4,4,False,False,Perdido,20,14,34,Cold Lead
+55,Candelario de Campillo,candelariodecampillo@gilabertyecheverrias.l..com,COO,Gilabert y Echeverría S.L.,Retail,Enterprise,Cold Call,41,5,0,False,False,Perdido,40,15,55,Warm Lead
+56,Jordana Ayllón,jordanaayllon@consultoriadelnortes.a..es,Business Development,Consultoría del Norte S.A.,Retail,Enterprise,Web,46,8,5,True,False,Perdido,25,28,53,Warm Lead
+57,Natividad Molins Salas,nativida@salmeronycuencas.l..com,Gerente Comercial,Salmerón y Cuenca S.L.,Educación,Pyme,Formulario,5,2,1,False,False,Perdido,25,7,32,Cold Lead
+58,Javiera Jove Huertas,javierajovehuertas@transportesharoyasociadoss.com..es,Gerente de Ventas,Transportes Haro y asociados S.Com.,Retail,Pyme,Web,22,4,2,False,False,Perdido,25,14,39,Cold Lead
+59,Desiderio Elías Narváez Montenegro,desiderioeliasnarvaezmontenegro@desarrollomks.l..es,Sales Manager,Desarrollo MK S.L.,Salud,Micro,Referido,35,3,3,False,False,Perdido,20,13,33,Cold Lead
+60,Hipólito Ramón Muro,h.hipolitoramonmuro@severobarriosgabaldons.l.l..com,CTO,Severo Barrios Gabaldón S.L.L.,Retail,Enterprise,Email,37,5,3,False,False,Perdido,40,15,55,Warm Lead
+61,Yolanda Aller Pintor,y.yolandaallerpintor@adolfoortizmartins.l..com,Gerente de Producto,Adolfo Ortiz Martín S.L.,Retail,Pyme,Web,7,1,1,True,False,Perdido,35,18,53,Warm Lead
+62,Lupita Giménez Torrents,lupitagimeneztorrents@inmobiliariadelnoroestes.coop..com.es,Director de Marketing,Inmobiliaria del Noroeste S.Coop.,Retail,Pyme,Formulario,33,9,2,False,False,Perdido,35,19,54,Warm Lead
+63,Evangelina Quiroga Dalmau,evangeli@zairacastellamoress.l.n.e.com,Gerente de Producto,Zaira Castell Amores S.L.N.E,Tecnología,Enterprise,Evento,2,0,0,False,False,Perdido,50,2,52,Warm Lead
+64,Marcela Amores-Blanes,marcelaamores-blanes@cerdayserranos.a..es,Product Manager,Cerdá y Serrano S.A.,Tecnología,Enterprise,Referido,28,5,1,False,False,Perdido,40,15,55,Warm Lead
+65,Goyo Morán-Galán,goyomoran-galan@nachonebotpinillas.c.p.com.es,Director de Ventas,Nacho Nebot Pinilla S.C.P,Retail,Pyme,Email,43,0,0,True,False,Perdido,35,20,55,Warm Lead
+66,Dolores Bilbao Sosa,doloresbilbaososa@familiaolmos.a.t..com.es,Analista de Ventas,Familia Olmo S.A.T.,Educación,Pyme,Formulario,39,3,3,False,False,Perdido,20,13,33,Cold Lead
+67,Rosario Arjona Anguita,rosarioarjonaanguita@finanzasavanzadass.coop..com.es,Ejecutivo Comercial,Finanzas Avanzadas S.Coop.,Educación,Enterprise,Email,6,1,0,False,True,Convertido,25,47,72,Hot Lead
+68,Bernardino del Carbó,bernardinodelcarbo@talleresintegraless.l..com.es,Gerente de Marketing,Talleres Integrales S.L.,Tecnología,Pyme,Referido,18,0,0,False,False,Perdido,35,10,45,Warm Lead
+69,Marcio Carbó Céspedes,marcioca@construccionamigoyasociadoss.coop..com,CTO,Construcción Amigó y asociados S.Coop.,Finanzas,Enterprise,Referido,7,4,1,False,False,Perdido,50,11,61,Warm Lead
+70,Gisela Fiol Benitez,g.giselafiolbenitez@construccioninteligentess.l.l..com,CTO,Construcción Inteligentes S.L.L.,Finanzas,Enterprise,Referido,7,3,2,False,False,Perdido,50,10,60,Warm Lead
+71,Rosenda Azeneth Armengol Olivera,r.rosendaazenetharmengololivera@pellicerybayons.coop..com,Gerente de Ventas,Pellicer y Bayón S.Coop.,Educación,Micro,Cold Call,16,0,0,False,False,Perdido,20,10,30,Cold Lead
+72,Adora Rivera Trillo,adorariv@suministroshrks.com..com,Gerente de Ventas,Suministros HRK S.Com.,Finanzas,Enterprise,Referido,33,10,3,False,True,Perdido,40,50,90,Hot Lead
+73,Modesta León,modestaleon@adelaruanoledesmas.com..es,Gerente Comercial,Adela Ruano Ledesma S.Com.,Tecnología,Pyme,Evento,20,10,0,False,False,Perdido,35,20,55,Warm Lead
+74,Severo de Lorenzo,severodelorenzo@josefranciscosobrinopinillas.com..com,Director de Tecnología,Jose Francisco Sobrino Pinilla S.Com.,Educación,Micro,Evento,16,5,0,False,False,Perdido,30,15,45,Warm Lead
+75,Susanita Morcillo Espada,susanitamorcilloespada@ibanpachecojordans.com..com,Business Development,Ibán Pacheco Jordán S.Com.,Educación,Pyme,Web,33,5,4,False,False,Perdido,20,15,35,Cold Lead
+76,Odalys Vanesa Llorente Agustín,odalysvanesallorenteagustin@compañiaibericoss.l..es,Director Comercial,Compañía Ibéricos S.L.,Salud,Pyme,Linkedin,1,0,0,False,True,Convertido,35,41,76,Hot Lead
+77,Manu Hernandez Tamayo,manuhernandeztamayo@victorinoalemanybuendias.com..es,Director de Ventas,Victorino Alemany Buendía S.Com.,Retail,Micro,Email,18,8,5,False,False,Perdido,30,18,48,Warm Lead
+78,Nydia Hervia Medina,nydiaherviamedina@saenzyasociadoss.com..com.es,Director Comercial,Sáenz y asociados S.Com.,Salud,Pyme,Cold Call,47,2,0,True,False,Perdido,35,22,57,Warm Lead
+79,Eusebia del Santiago,e.eusebiadelsantiago@inversionesiglesias&asociadoss.a..com,Asistente Comercial,Inversiones Iglesias & Asociados S.A.,Finanzas,Micro,Formulario,37,9,5,False,True,Convertido,25,50,75,Hot Lead
+80,Fausto Carreras,f.faustocarreras@finanzasgascons.l..com,Sales Manager,Finanzas Gascón S.L.,Educación,Pyme,Formulario,12,3,3,False,False,Convertido,25,13,38,Cold Lead
+81,Porfirio Zamorano-Luna,porfirio@finanzasljas.coop..com,Business Development,Finanzas LJA S.Coop.,Retail,Pyme,Referido,2,0,0,False,False,Perdido,20,2,22,Cold Lead
+82,Alonso Ballester-Manzano,alonsoballester-manzano@transportescalderons.l.n.e.es,Gerente Comercial,Transportes Calderon S.L.N.E,Tecnología,Enterprise,Formulario,41,2,0,False,False,Perdido,40,12,52,Warm Lead
+83,Elodia Soria-Tejero,elodiasoria-tejero@noeespinosaaznars.c.p.com.es,Marketing Manager,Noé Espinosa Aznar S.C.P,Tecnología,Pyme,Referido,20,10,5,False,False,Perdido,35,20,55,Warm Lead
+84,Aurora Bas Pérez,aurorabasperez@candelariobaezacorderos.a..es,Gerente de Marketing,Candelario Baeza Cordero S.A.,Finanzas,Micro,Linkedin,48,10,5,False,False,Perdido,30,20,50,Warm Lead
+85,Encarnacion Blázquez-Hurtado,e.encarnacionblazquez-hurtado@solucionesegots.l.n.e.com,Analista de Ventas,Soluciones EGOT S.L.N.E,Finanzas,Micro,Evento,27,2,0,False,False,Perdido,25,12,37,Cold Lead
+86,Tito Macario Romeu Mayoral,titomaca@familiagalianos.l..com,Director de Ventas,Familia Galiano S.L.,Educación,Pyme,Referido,37,2,0,False,False,Perdido,35,12,47,Warm Lead
+87,Natalio Bertrán-Crespo,nataliobertran-crespo@farmaceuticaespañolas.a..com.es,VP de Marketing,Farmaceútica Española S.A.,Retail,Pyme,Web,4,3,2,False,False,Perdido,35,7,42,Warm Lead
+88,Javiera Soriano Manuel,javierasorianomanuel@grupomaldonados.l..es,Gerente Comercial,Grupo Maldonado S.L.,Finanzas,Micro,Linkedin,15,6,4,False,False,Perdido,30,16,46,Warm Lead
+89,Andrea Guillen Lamas,andreaguillenlamas@suministrosespañolass.coop..com.es,VP de Marketing,Suministros Españolas S.Coop.,Retail,Pyme,Formulario,43,0,0,False,False,Perdido,35,10,45,Warm Lead
+90,Wálter Larrañaga Cisneros,walterlarrañagacisneros@comercialpes.l.l..com.es,Director de Operaciones,Comercial PE S.L.L.,Salud,Enterprise,Evento,43,10,5,False,False,Perdido,40,20,60,Warm Lead
+91,Isidoro Bernabé Solís Mateu,i.isidorobernabesolismateu@lladoyvalls.coop..com,Gerente de Producto,Lladó y Vall S.Coop.,Retail,Micro,Email,8,0,0,False,False,Perdido,30,8,38,Cold Lead
+92,Anita Ariño Rosales,anitaari@ibañez&asociadoss.a..com,Ejecutivo Comercial,Ibáñez & Asociados S.A.,Educación,Enterprise,Evento,30,4,2,False,False,Convertido,25,14,39,Cold Lead
+93,Maristela Almansa-Leon,maristelaalmansa-leon@grupososas.coop..com,Analista de Marketing,Grupo Sosa S.Coop.,Retail,Enterprise,Formulario,25,0,0,False,False,Perdido,25,10,35,Cold Lead
+94,África Lobo Escudero,africaloboescudero@tellezybous.coop..com,Sales Manager,Téllez y Bou S.Coop.,Retail,Enterprise,Email,14,7,0,False,False,Perdido,30,17,47,Warm Lead
+95,Eva Montesinos Calvo,e.evamontesinoscalvo@manufacturasrequenas.l..com,Marketing Manager,Manufacturas Requena S.L.,Tecnología,Enterprise,Email,26,1,0,True,True,Perdido,40,50,90,Hot Lead
+96,Natanael Herberto Arco Sanz,natanaelherbertoarcosanz@logisticaqyvs.coop..es,Director de Marketing,Logística QYV S.Coop.,Educación,Micro,Evento,42,8,3,False,False,Perdido,30,18,48,Warm Lead
+97,Nando Sevilla Reyes,n.nandosevillareyes@grupovillegass.com..com,Product Manager,Grupo Villegas S.Com.,Retail,Enterprise,Linkedin,44,5,1,False,False,Perdido,30,15,45,Warm Lead
+98,Maura Salamanca Aznar,maurasalamancaaznar@inmobiliariaglobaless.l.n.e.com,VP de Ventas,Inmobiliaria Globales S.L.N.E,Finanzas,Enterprise,Referido,17,3,0,False,False,Convertido,50,13,63,Warm Lead
+99,Vanesa Tormo Carrión,v.vanesatormocarrion@grupocuadrados.com..com,Director de Estrategia,Grupo Cuadrado S.Com.,Educación,Micro,Web,8,4,1,True,False,Convertido,30,22,52,Warm Lead
+100,Leoncio Raya Buendía,leonciorayabuendia@consultoriadelnortes.l.n.e.com,Director de Marketing,Consultoría del Norte S.L.N.E,Finanzas,Micro,Evento,9,1,1,False,False,Perdido,40,10,50,Warm Lead
+101,Josep Manzanares Verdú,josepmanzanaresverdu@solucionestolosayasociadoss.a.u.com,Director de Operaciones,Soluciones Tolosa y asociados S.A.U,Salud,Enterprise,Web,16,0,0,False,False,Perdido,40,10,50,Warm Lead
+102,Blanca del Farré,blancadelfarre@comercializadorallorentes.l..com,Product Manager,Comercializadora Llorente S.L.,Finanzas,Enterprise,Referido,32,3,0,False,False,Perdido,40,13,53,Warm Lead
+103,Evita Vera Lastra,evitaveralastra@hermanosmartins.l.l..es,Marketing Manager,Hermanos Martín S.L.L.,Tecnología,Micro,Referido,43,1,1,False,False,Perdido,30,11,41,Warm Lead
+104,Mónica Tovar-Comas,monicatovar-comas@barbaratomeochoas.com..com.es,Gerente de Marketing,Bárbara Tomé Ochoa S.Com.,Tecnología,Micro,Email,37,8,5,False,False,Perdido,30,18,48,Warm Lead
+105,Florinda del Montserrat,florindadelmontserrat@industriasdelmediterraneos.a.u.com.es,Sales Manager,Industrias del Mediterráneo S.A.U,Retail,Micro,Email,13,6,3,False,False,Perdido,20,16,36,Cold Lead
+106,Amada Monreal Suárez,a.amadamonrealsuarez@poloycornejos.coop..com,Marketing Manager,Polo y Cornejo S.Coop.,Tecnología,Pyme,Email,16,5,1,False,False,Convertido,35,15,50,Warm Lead
+107,Bernardino Vallés Mármol,bernardi@supermercadosbxs.l..com,CMO,Supermercados BX S.L.,Tecnología,Enterprise,Cold Call,3,2,2,False,False,Perdido,50,5,55,Warm Lead
+108,Tomasa Cortes Benavides,t.tomasacortesbenavides@merchelandanevados.l..com,Coordinador de Ventas,Merche Landa Nevado S.L.,Tecnología,Pyme,Evento,6,4,4,False,False,Perdido,45,10,55,Warm Lead
+109,Mirta Bernat Moya,mirtabernatmoya@molinerytorrentss.l.n.e.com.es,Director Comercial,Moliner y Torrents S.L.N.E,Finanzas,Micro,Web,27,8,4,False,False,Convertido,40,18,58,Warm Lead
+110,Martin Bayona Guitart,m.martinbayonaguitart@hotelbotellayasociadoss.l.u..com,Business Development,Hotel Botella y asociados S.L.U.,Finanzas,Micro,Email,48,4,2,False,False,Perdido,25,14,39,Cold Lead
+111,Iván Delgado Marí,ivandelgadomari@familiamoratas.l..com,Gerente de Ventas,Familia Morata S.L.,Salud,Enterprise,Email,33,3,3,False,False,Perdido,30,13,43,Warm Lead
+112,Gastón Glauco Rosa Coello,gastongl@solucionesiberias.a..com,Asistente Comercial,Soluciones Iberia S.A.,Educación,Micro,Web,48,9,0,False,True,Perdido,15,50,65,Warm Lead
+113,Marcos Piñeiro Hernando,marcospiñeirohernando@ximenaclementeguerras.coop..com.es,Gerente Comercial,Ximena Clemente Guerra S.Coop.,Retail,Pyme,Linkedin,22,6,0,False,False,Perdido,25,16,41,Warm Lead
+114,Jeremías Jara-Agustí,jeremiasjara-agusti@valentinamaestrecruzs.a..com,Gerente de Ventas,Valentina Maestre Cruz S.A.,Salud,Pyme,Linkedin,13,4,1,False,False,Perdido,25,14,39,Cold Lead
+115,Maristela Martínez Rodrigo,maristelamartinezrodrigo@talleresmatas&asociadoss.l.u..es,Director de Tecnología,Talleres Matas & Asociados S.L.U.,Retail,Micro,Cold Call,45,3,2,True,False,Convertido,30,23,53,Warm Lead
+116,Ascensión Gálvez Pizarro,ascensiongalvezpizarro@marquesyasociadoss.a..com.es,CEO,Marqués y asociados S.A.,Finanzas,Enterprise,Referido,45,10,3,True,True,Perdido,50,50,100,Hot Lead
+117,Eli Aguiló Avilés,eliaguiloaviles@pepitamaciasgraus.coop..com,Director Comercial,Pepita Macías Grau S.Coop.,Retail,Enterprise,Referido,6,1,1,False,False,Perdido,40,7,47,Warm Lead
+118,Constanza Falcón Iglesia,constanz@construccionarizas.com..com,Gerente de Producto,Construcción Ariza S.Com.,Salud,Pyme,Linkedin,32,10,0,False,True,Perdido,35,50,85,Hot Lead
+119,Alexandra Patiño Catalá,alexandr@instalacionesmjgs.coop..com,Product Manager,Instalaciones MJG S.Coop.,Salud,Micro,Evento,12,2,2,True,False,Convertido,20,22,42,Warm Lead
+120,Luisa Valls Llamas,luisavallsllamas@infraestructurastirados.l.n.e.com.es,Business Development,Infraestructuras Tirado S.L.N.E,Retail,Pyme,Formulario,37,7,5,False,False,Perdido,20,17,37,Cold Lead
+121,Raúl Trinidad Nevado Cardona,raultrinidadnevadocardona@carloschicogonzalezs.l.l..com,Product Manager,Carlos Chico Gonzalez S.L.L.,Finanzas,Micro,Referido,28,10,2,False,False,Perdido,30,20,50,Warm Lead
+122,Soraya Paz Bosch,s.sorayapazbosch@alcalaylamass.coop..com,CMO,Alcalá y Lamas S.Coop.,Retail,Micro,Formulario,18,1,0,False,False,Perdido,30,11,41,Warm Lead
+123,Flor Juárez Piquer,florjuarezpiquer@campoy&asociadoss.coop..com.es,Product Manager,Campoy & Asociados S.Coop.,Tecnología,Pyme,Email,12,5,4,False,False,Convertido,35,15,50,Warm Lead
+124,Verónica Mar Mosquera Giralt,veronicamarmosqueragiralt@tallerespvhxs.com..com,Director de Operaciones,Talleres PVHX S.Com.,Tecnología,Enterprise,Web,45,7,3,False,False,Perdido,50,17,67,Warm Lead
+125,Azahar Cabanillas Guitart,azaharcabanillasguitart@restauracionsantiagos.com..com.es,Coordinador de Ventas,Restauración Santiago S.Com.,Retail,Pyme,Linkedin,50,10,5,True,True,Perdido,35,50,85,Hot Lead
+126,Hortensia de Ribera,hortensiaderibera@transportesvxbts.com..com,Gerente de Producto,Transportes VXBT S.Com.,Educación,Micro,Cold Call,42,2,1,True,False,Perdido,30,22,52,Warm Lead
+127,Teófilo del Cabezas,teofilodelcabezas@palmer&asociadoss.com..es,Director de Estrategia,Palmer & Asociados S.Com.,Tecnología,Pyme,Email,50,5,1,False,False,Perdido,45,15,60,Warm Lead
+128,Benjamín Sanz,benjaminsanz@fabricahycrs.l.u..com.es,Sales Manager,Fábrica HYCR S.L.U.,Tecnología,Enterprise,Evento,1,1,1,False,False,Perdido,40,2,42,Warm Lead
+129,Clarisa Bayona-Galan,c.clarisabayona-galan@hotelinternacionaless.l..com,Gerente de Marketing,Hotel Internacionales S.L.,Salud,Micro,Formulario,50,1,0,False,False,Perdido,20,11,31,Cold Lead
+130,Abril Eliana Coca Castillo,abrileli@farmaceuticacanet&asociadoss.a..com,Gerente de Marketing,Farmaceútica Canet & Asociados S.A.,Salud,Micro,Email,28,0,0,False,False,Perdido,20,10,30,Cold Lead
+131,Rosa Gárate Morante,rosagara@grupolaras.a..com,Product Manager,Grupo Lara S.A.,Retail,Micro,Evento,50,7,1,False,False,Perdido,20,17,37,Cold Lead
+132,Lucila Carballo Bartolomé,lucilacarballobartolome@vidalparedesvilanovas.coop..es,Gerente de Producto,Vidal Paredes Vilanova S.Coop.,Retail,Enterprise,Web,12,2,1,True,False,Perdido,40,22,62,Warm Lead
+133,Lidia Giralt Aroca,lidiagiraltaroca@talleresanguita&asociadoss.l.u..com,Business Development,Talleres Anguita & Asociados S.L.U.,Educación,Micro,Formulario,10,2,1,False,False,Perdido,15,12,27,Cold Lead
+134,Inmaculada Campoy Trujillo,inmaculadacampoytrujillo@candelarioberrocalmontserrats.coop..com,Analista de Marketing,Candelario Berrocal Montserrat S.Coop.,Retail,Pyme,Referido,3,1,1,False,False,Perdido,20,4,24,Cold Lead
+135,Bernardino Llopis Morcillo,bernardinollopismorcillo@mariñoysantiagos.coop..com,CEO,Mariño y Santiago S.Coop.,Finanzas,Micro,Evento,30,2,2,False,False,Perdido,40,12,52,Warm Lead
+136,Ariel Carbó Garrido,arielcarbogarrido@sanmiguelygracias.com..es,CTO,Sanmiguel y Gracia S.Com.,Salud,Enterprise,Linkedin,49,4,1,True,True,Convertido,40,50,90,Hot Lead
+137,Gloria Ricart Bustamante,gloriaricartbustamante@roldanyasociadoss.l..com.es,Coordinador de Ventas,Roldán y asociados S.L.,Tecnología,Micro,Cold Call,1,0,0,False,True,Convertido,40,41,81,Hot Lead
+138,Calista Sánchez Bautista,calistasanchezbautista@compañiawms.com..com,Gerente de Marketing,Compañía WM S.Com.,Tecnología,Enterprise,Cold Call,34,8,4,False,False,Perdido,40,18,58,Warm Lead
+139,Leopoldo Barreda Murcia,l.leopoldobarredamurcia@solucionestwvs.l.n.e.com,Gerente de Producto,Soluciones TWV S.L.N.E,Finanzas,Enterprise,Formulario,4,2,0,False,False,Perdido,50,6,56,Warm Lead
+140,Ernesto Miguel Ortiz,ernestomiguelortiz@fabricails.a..com.es,Ejecutivo Comercial,Fábrica IL S.A.,Salud,Micro,Evento,41,2,2,False,False,Perdido,15,12,27,Cold Lead
+141,Flor de Lopez,flordelo@suministrosavanzadass.coop..com,Analista de Ventas,Suministros Avanzadas S.Coop.,Retail,Micro,Linkedin,50,3,0,True,True,Convertido,15,50,65,Warm Lead
+142,Alberto Escribano-Llano,a.albertoescribano-llano@manufacturasorozco&asociadoss.a..com,Coordinador de Ventas,Manufacturas Orozco & Asociados S.A.,Finanzas,Micro,Evento,49,0,0,True,False,Perdido,40,20,60,Warm Lead
+143,Lorenzo Pérez Baños,lorenzoperezbaños@bancaprivadabravos.l..es,Gerente Comercial,Banca Privada Bravo S.L.,Retail,Pyme,Email,31,5,4,True,True,Convertido,25,50,75,Hot Lead
+144,Godofredo Rivas,g.godofredorivas@nestorcriadopelayos.com..com,Product Manager,Néstor Criado Pelayo S.Com.,Salud,Enterprise,Linkedin,5,2,2,False,False,Perdido,30,7,37,Cold Lead
+145,Renata Blazquez Badía,r.renatablazquezbadia@distribucionesayalas.l..com,Director de Tecnología,Distribuciones Ayala S.L.,Finanzas,Pyme,Cold Call,27,4,0,True,False,Perdido,45,24,69,Warm Lead
+146,Ismael Rodrigo-Torralba,ismaelrodrigo-torralba@severinollanogarrigas.l..com.es,Business Development,Severino Llano Garriga S.L.,Salud,Micro,Email,50,7,0,True,True,Perdido,15,50,65,Warm Lead
+147,Francisco Jose Ropero Cantero,franciscojoseroperocantero@transportesaguilayasociadoss.a..es,Sales Manager,Transportes Águila y asociados S.A.,Tecnología,Enterprise,Evento,23,7,0,False,False,Perdido,40,17,57,Warm Lead
+148,María Belén Ballesteros Aguilera,mariabelenballesterosaguilera@inversionesibericas.l..es,Gerente de Marketing,Inversiones Ibérica S.L.,Tecnología,Micro,Cold Call,24,8,0,False,True,Convertido,30,50,80,Hot Lead
+149,Espiridión Mosquera-Carretero,espiridi@hnosross.a..com,Ejecutivo Comercial,Hnos Ros S.A.,Retail,Micro,Formulario,4,3,1,False,False,Convertido,15,7,22,Cold Lead
+150,Luisina Grau Vall,luisinagrauvall@belloyasociadoss.l.l..com,Product Manager,Bello y asociados S.L.L.,Finanzas,Enterprise,Cold Call,34,4,2,False,False,Perdido,40,14,54,Warm Lead
+151,Isaías Alfonso Segura,isaiasalfonsosegura@logisticawvhps.com..com,Product Manager,Logística WVHP S.Com.,Finanzas,Enterprise,Web,50,2,0,False,True,Perdido,40,50,90,Hot Lead
+152,Carlota Seguí Paredes,carlotaseguiparedes@suministrosmes.coop..com,Product Manager,Suministros ME S.Coop.,Educación,Micro,Linkedin,19,6,5,False,False,Perdido,20,16,36,Cold Lead
+153,Tomasa Menéndez Nicolás,tomasamenendeznicolas@manufacturasiberias.a..com,Analista de Ventas,Manufacturas Iberia S.A.,Salud,Pyme,Referido,29,10,4,False,False,Perdido,20,20,40,Warm Lead
+154,Juan Manuel Viana Ferrera,juanmanuelvianaferrera@ortega&asociadoss.a.u.com,Gerente de Marketing,Ortega & Asociados S.A.U,Salud,Pyme,Formulario,7,4,1,False,False,Perdido,25,11,36,Cold Lead
+155,Eduardo Figueroa Durán,eduardof@comercializadoraelorzas.l.n.e.com,Director Comercial,Comercializadora Elorza S.L.N.E,Finanzas,Micro,Email,35,4,1,False,False,Convertido,40,14,54,Warm Lead
+156,Jordana Sanchez Moraleda,jordanasanchezmoraleda@corbachoyasociadoss.a..com.es,Sales Manager,Corbacho y asociados S.A.,Educación,Micro,Email,38,5,4,True,False,Convertido,20,25,45,Warm Lead
+157,Melania Mateo Llobet,melaniamateollobet@hermanosveras.a..com.es,Asistente Comercial,Hermanos Vera S.A.,Finanzas,Enterprise,Referido,39,10,0,False,False,Perdido,35,20,55,Warm Lead
+158,Jennifer Arellano Barberá,j.jenniferarellanobarbera@madrid&asociadoss.l..com,Coordinador de Ventas,Madrid & Asociados S.L.,Salud,Enterprise,Referido,4,0,0,False,False,Perdido,40,4,44,Warm Lead
+159,Marino Vendrell Planas,marinovendrellplanas@custodiaarmengolsandovals.l.n.e.es,Gerente de Producto,Custodia Armengol Sandoval S.L.N.E,Finanzas,Enterprise,Web,48,5,4,False,False,Perdido,50,15,65,Warm Lead
+160,Modesta Fabra-Montoya,m.modestafabra-montoya@angelicacontrerasbarrios.coop..com,Director de Marketing,Angélica Contreras Barrio S.Coop.,Salud,Micro,Referido,39,6,1,False,False,Perdido,30,16,46,Warm Lead
+161,Oriana Blasco Vargas,orianablascovargas@bancohuguets.l..es,Business Development,Banco Huguet S.L.,Finanzas,Micro,Cold Call,29,7,2,False,True,Convertido,25,50,75,Hot Lead
+162,Luciana Yáñez Cuenca,lucianayañezcuenca@peraltayasociadoss.com..com,Gerente de Marketing,Peralta y asociados S.Com.,Salud,Enterprise,Linkedin,18,7,4,False,False,Perdido,30,17,47,Warm Lead
+163,Nidia Badía Nadal,n.nidiabadianadal@manufacturasdus.c.p.com,Product Manager,Manufacturas DU S.C.P,Tecnología,Pyme,Email,23,6,2,True,True,Perdido,35,50,85,Hot Lead
+164,Trinidad Brígida Mínguez Bertrán,trinidadbrigidaminguezbertran@mineriamenendezs.l.n.e.es,Gerente de Producto,Minería Menéndez S.L.N.E,Tecnología,Pyme,Formulario,35,4,4,False,False,Perdido,45,14,59,Warm Lead
+165,Belén Blazquez Menendez,belenbla@moyaycastells.l..com,Product Manager,Moya y Castell S.L.,Finanzas,Enterprise,Web,38,8,3,False,True,Convertido,40,50,90,Hot Lead
+166,Araceli Roda,araceliroda@alfaroyasociadoss.com..com.es,Gerente Comercial,Alfaro y asociados S.Com.,Educación,Pyme,Cold Call,8,2,2,False,False,Perdido,25,10,35,Cold Lead
+167,Francisco Torre,franciscotorre@hotelglobaless.a..com.es,Asistente Comercial,Hotel Globales S.A.,Finanzas,Enterprise,Referido,45,9,2,False,True,Convertido,35,50,85,Hot Lead
+168,Telmo Rufino Cadenas Vera,telmorufinocadenasvera@hermanoscastros.coop..com,Director de Tecnología,Hermanos Castro S.Coop.,Educación,Pyme,Cold Call,30,4,4,False,False,Perdido,35,14,49,Warm Lead
+169,Ceferino Escrivá Daza,ceferino@armandoreigpastors.l..com,Director de Estrategia,Armando Reig Pastor S.L.,Educación,Pyme,Linkedin,36,1,0,True,True,Convertido,35,50,85,Hot Lead
+170,Iván del Sanchez,ivandelsanchez@industriasinteligentess.l.n.e.com,Gerente Comercial,Industrias Inteligentes S.L.N.E,Educación,Enterprise,Email,8,4,1,False,False,Perdido,30,12,42,Warm Lead
+171,Yaiza Ferrera Pedro,yaizaferrerapedro@iñigolujanpiñas.coop..com.es,Gerente de Marketing,Íñigo Luján Piña S.Coop.,Retail,Enterprise,Evento,43,10,5,False,True,Convertido,30,50,80,Hot Lead
+172,Candelaria Flores Chacón,c.candelariafloreschacon@comercialterronyasociadoss.coop..com,Ejecutivo Comercial,Comercial Terrón y asociados S.Coop.,Educación,Pyme,Formulario,18,3,3,False,False,Perdido,20,13,33,Cold Lead
+173,Pelayo Villalobos Casanovas,pelayovillaloboscasanovas@compañiacuetoyasociadoss.coop..com.es,Ejecutivo Comercial,Compañía Cueto y asociados S.Coop.,Finanzas,Micro,Referido,25,5,1,False,False,Perdido,25,15,40,Warm Lead
+174,Brunilda Ruiz,brunilda@hoteluwvs.com..com,Gerente Comercial,Hotel UWV S.Com.,Finanzas,Enterprise,Web,34,4,4,False,False,Perdido,40,14,54,Warm Lead
+175,Custodia Polo Bilbao,custodia@gomez&asociadoss.com..com,Gerente de Marketing,Gomez & Asociados S.Com.,Tecnología,Enterprise,Email,14,0,0,False,False,Perdido,40,10,50,Warm Lead
+176,Simón Naranjo Coll,simonnaranjocoll@bancomadrids.l.n.e.es,Analista de Ventas,Banco Madrid S.L.N.E,Educación,Micro,Referido,41,3,2,False,False,Perdido,15,13,28,Cold Lead
+177,Obdulia Chamorro Somoza,obduliac@encarnacionadadiabernads.a..com,COO,Encarnación Adadia Bernad S.A.,Salud,Enterprise,Referido,11,0,0,False,False,Perdido,40,10,50,Warm Lead
+178,Silvestre Conde,silvestreconde@canteroymaldonados.a.u.com.es,Ejecutivo Comercial,Cantero y Maldonado S.A.U,Tecnología,Micro,Cold Call,6,2,1,False,False,Perdido,25,8,33,Cold Lead
+179,Amado Gómez Rivas,amadogom@bernardinocanterovaleros.coop..com,Analista de Marketing,Bernardino Cantero Valero S.Coop.,Educación,Pyme,Formulario,7,2,0,False,False,Perdido,20,9,29,Cold Lead
+180,Maximiano Villalba Herranz,maximian@instalacionesromans.a..com,CFO,Instalaciones Román S.A.,Finanzas,Enterprise,Cold Call,40,6,3,False,True,Convertido,50,50,100,Hot Lead
+181,Dalila Riera Exposito,dalilari@promocionesxcs.l..com,Director de Marketing,Promociones XC S.L.,Retail,Pyme,Linkedin,16,6,1,False,False,Perdido,35,16,51,Warm Lead
+182,Manola Almagro,m.manolaalmagro@sorianoyarranzs.l..com,Sales Manager,Soriano y Arranz S.L.,Tecnología,Pyme,Email,15,0,0,False,False,Perdido,35,10,45,Warm Lead
+183,Dolores Alegre Palau,d.doloresalegrepalau@mineriamgs.l..com,Business Development,Minería MG S.L.,Finanzas,Enterprise,Evento,39,3,1,False,False,Perdido,35,13,48,Warm Lead
+184,Benita Arregui Ortuño,benitaarreguiortuño@diezyasociadoss.l.u..es,Ejecutivo Comercial,Díez y asociados S.L.U.,Retail,Enterprise,Formulario,34,10,1,False,False,Perdido,25,20,45,Warm Lead
+185,Melania Esparza Cepeda,melaniaesparzacepeda@tallerespcs.a.d.com,Asistente Comercial,Talleres PC S.A.D,Retail,Enterprise,Cold Call,7,0,0,False,False,Perdido,25,7,32,Cold Lead
+186,Fausto Menéndez Villalba,faustomenendezvillalba@saenzyiserns.a..es,Gerente de Ventas,Sáenz y Isern S.A.,Salud,Enterprise,Linkedin,32,7,0,False,False,Perdido,30,17,47,Warm Lead
+187,Eric Palau,ericpalau@hermanosllanos.a..es,CMO,Hermanos Llano S.A.,Finanzas,Enterprise,Evento,0,0,0,True,True,Convertido,50,50,100,Hot Lead
+188,Isa Páez Sabater,isapaezsabater@nicolauyestevezs.coop..es,Analista de Ventas,Nicolau y Estévez S.Coop.,Retail,Micro,Web,49,2,2,False,False,Perdido,15,12,27,Cold Lead
+189,Flor Vives Lasa,florviveslasa@suministroswzs.a..com,Coordinador de Ventas,Suministros WZ S.A.,Retail,Pyme,Email,42,8,1,False,False,Perdido,35,18,53,Warm Lead
+190,Felipe Aurelio Bernal Mosquera,felipeaureliobernalmosquera@inversionessalmeronyasociadoss.a..com,Sales Manager,Inversiones Salmerón y asociados S.A.,Salud,Enterprise,Formulario,1,1,1,False,False,Perdido,30,2,32,Cold Lead
+191,Felicia Salvador Arnal,f.feliciasalvadorarnal@royoyasociadoss.l..com,Analista de Marketing,Royo y asociados S.L.,Retail,Pyme,Web,46,1,0,False,False,Perdido,20,11,31,Cold Lead
+192,Anselmo Ramis Parra,anselmoramisparra@bancaprivadaclaveros.l.l..com,Analista de Ventas,Banca Privada Clavero S.L.L.,Salud,Micro,Cold Call,2,1,0,False,True,Perdido,15,43,58,Warm Lead
+193,Alexandra Cases Bautista,a.alexandracasesbautista@promocionesdellevantes.com..com,Product Manager,Promociones del Levante S.Com.,Tecnología,Micro,Web,46,9,2,False,False,Perdido,30,19,49,Warm Lead
+194,Alejandra Corral-Sandoval,a.alejandracorral-sandoval@peralyasociadoss.l..com,Director de Marketing,Peral y asociados S.L.,Educación,Micro,Evento,3,2,2,False,False,Perdido,30,5,35,Cold Lead
+195,Bernardita Ávila-Pedraza,bernarditaavila-pedraza@mirallesylopezs.c.p.es,Gerente Comercial,Miralles y Lopez S.C.P,Tecnología,Pyme,Formulario,33,5,5,False,False,Perdido,35,15,50,Warm Lead
+196,Albert Estrada Valera,albertes@carranzayjuarezs.l..com,Coordinador de Ventas,Carranza y Juárez S.L.,Salud,Micro,Formulario,29,0,0,False,False,Perdido,30,10,40,Warm Lead
+197,Clotilde Machado Tudela,clotildemachadotudela@consultoriaglobaless.l.l..es,Director de Marketing,Consultoría Globales S.L.L.,Finanzas,Enterprise,Formulario,23,1,0,True,True,Convertido,50,50,100,Hot Lead
+198,Carmela Salgado Bonilla,carmelas@olivera&asociadoss.coop..com,CEO,Olivera & Asociados S.Coop.,Salud,Enterprise,Referido,13,5,2,False,True,Perdido,40,50,90,Hot Lead
+199,Victor Manuel Eutimio Criado Dávila,victorma@verdugo&asociadoss.a..com,Analista de Ventas,Verdugo & Asociados S.A.,Retail,Micro,Referido,15,8,2,False,False,Perdido,15,18,33,Cold Lead
+200,Ruy Chamorro,ruychamorro@transportesavanzadass.com..es,Gerente de Producto,Transportes Avanzadas S.Com.,Finanzas,Enterprise,Linkedin,46,7,2,False,False,Perdido,50,17,67,Warm Lead
+201,Flor Solsona-Castilla,florsolsona-castilla@comercializadoraulys.com..com.es,Gerente de Marketing,Comercializadora ULY S.Com.,Salud,Micro,Cold Call,37,6,2,True,True,Convertido,20,50,70,Hot Lead
+202,Sandra Benavent Casares,s.sandrabenaventcasares@benaventyasociadoss.coop..com,Coordinador de Ventas,Benavent y asociados S.Coop.,Educación,Enterprise,Formulario,31,10,5,False,True,Perdido,40,50,90,Hot Lead
+203,Fabiola Castellanos,fabiolacastellanos@desarrollorosellos.coop..com.es,Director de Estrategia,Desarrollo Roselló S.Coop.,Educación,Pyme,Email,3,2,0,False,True,Perdido,35,45,80,Hot Lead
+204,Severo Casanova Villegas,severocasanovavillegas@inversionescozars.a..com,CEO,Inversiones Cózar S.A.,Retail,Micro,Email,9,0,0,False,False,Perdido,30,9,39,Cold Lead
+205,Fulgencio del Bermúdez,fulgenciodelbermudez@finanzasllobet&asociadoss.l..com,Sales Manager,Finanzas Llobet & Asociados S.L.,Retail,Enterprise,Linkedin,34,8,3,True,True,Convertido,30,50,80,Hot Lead
+206,Luna Araceli Valverde Domingo,lunaarac@distribucionesnebots.l.l..com,Analista de Ventas,Distribuciones Nebot S.L.L.,Educación,Enterprise,Linkedin,6,4,1,False,False,Perdido,25,10,35,Cold Lead
+207,Alondra Andrade-Bertrán,alondraandrade-bertran@hermanosgalvezs.l..es,Product Manager,Hermanos Galvez S.L.,Retail,Micro,Referido,36,3,1,False,False,Convertido,20,13,33,Cold Lead
+208,María Pilar Anglada Valenciano,mariapilarangladavalenciano@inversionestomas&asociadoss.l..es,Business Development,Inversiones Tomas & Asociados S.L.,Tecnología,Micro,Referido,35,7,0,False,False,Convertido,25,17,42,Warm Lead
+209,Emma Santana Beltran,emmasantanabeltran@gruposabaters.com..com.es,Business Development,Grupo Sabater S.Com.,Finanzas,Enterprise,Linkedin,14,3,3,False,False,Perdido,35,13,48,Warm Lead
+210,Clara Nieto Cobo,claranie@montañayasociadoss.l.n.e.com,Director Comercial,Montaña y asociados S.L.N.E,Educación,Enterprise,Formulario,20,0,0,False,False,Perdido,40,10,50,Warm Lead
+211,Ricardo Pellicer Villa,ricardop@logisticayns.c.p.com,Gerente de Ventas,Logística YN S.C.P,Finanzas,Micro,Cold Call,24,10,4,False,False,Convertido,30,20,50,Warm Lead
+212,Amador Manrique Plana,amadormanriqueplana@hurtadoycuestas.l.l..com,Business Development,Hurtado y Cuesta S.L.L.,Tecnología,Enterprise,Linkedin,27,3,0,False,False,Perdido,35,13,48,Warm Lead
+213,Palmira Milla-Falcó,palmiramilla-falco@transportesvillas.coop..es,Product Manager,Transportes Villa S.Coop.,Finanzas,Micro,Referido,14,5,4,False,False,Perdido,30,15,45,Warm Lead
+214,Jose Ramón Aitor Bosch Pozuelo,joseramo@joseangelgarridoosorios.a..com,Gerente de Ventas,Jose Angel Garrido Osorio S.A.,Educación,Pyme,Email,4,0,0,True,False,Perdido,25,14,39,Cold Lead
+215,Jose Miguel Marc Sosa Macias,josemiguelmarcsosamacias@familiarosas.a..com,Ejecutivo Comercial,Familia Rosa S.A.,Finanzas,Micro,Evento,28,5,2,True,True,Perdido,25,50,75,Hot Lead
+216,Prudencio Paz-Quintana,prudenciopaz-quintana@arrietayasociadoss.a..com,Sales Manager,Arrieta y asociados S.A.,Retail,Micro,Evento,35,1,1,False,True,Convertido,20,50,70,Hot Lead
+217,Charo del Malo,charodelmalo@restauracionxcqgs.coop..com.es,Business Development,Restauración XCQG S.Coop.,Educación,Micro,Web,43,6,1,True,True,Perdido,15,50,65,Warm Lead
+218,Atilio Prada Perea,atiliopradaperea@pavon&asociadoss.a.d.es,CMO,Pavón & Asociados S.A.D,Finanzas,Pyme,Formulario,4,2,1,False,False,Perdido,45,6,51,Warm Lead
+219,Gracia Vall,graciavall@familiaariass.a..com,Gerente Comercial,Familia Arias S.A.,Tecnología,Micro,Referido,21,9,3,False,False,Perdido,30,19,49,Warm Lead
+220,Rosaura Sáez Vives,r.rosaurasaezvives@eustaquiovillalbachavess.com..com,Business Development,Eustaquio Villalba Chaves S.Com.,Educación,Micro,Cold Call,44,3,3,True,False,Perdido,15,23,38,Cold Lead
+221,Esther Candelas Pozo Martínez,e.esthercandelaspozomartinez@vendrellyasociadoss.l..com,Director de Estrategia,Vendrell y asociados S.L.,Retail,Enterprise,Referido,17,6,2,True,False,Perdido,40,26,66,Warm Lead
+222,Jordán Saturnino Alegria Pedrosa,jordansa@canalsyasociadoss.coop..com,Marketing Manager,Canals y asociados S.Coop.,Educación,Micro,Referido,18,1,1,False,False,Perdido,20,11,31,Cold Lead
+223,Marc Sánchez Lara,marcsanchezlara@comercialdelsurs.a..es,Director de Marketing,Comercial del Sur S.A.,Retail,Pyme,Cold Call,30,9,3,False,False,Perdido,35,19,54,Warm Lead
+224,Remedios Sol Pinto Coloma,remediossolpintocoloma@bancoespañolass.a..com.es,Gerente de Ventas,Banco Españolas S.A.,Finanzas,Enterprise,Email,5,0,0,False,False,Perdido,40,5,45,Warm Lead
+225,Estefanía Riquelme Cordero,estefaniariquelmecordero@friasyregueras.coop..es,VP de Ventas,Frías y Reguera S.Coop.,Retail,Pyme,Linkedin,0,0,0,False,False,Perdido,35,0,35,Cold Lead
+226,Águeda Jovita Barrios Cervera,aguedajovitabarrioscervera@logisticadelsurs.coop..es,Gerente de Marketing,Logística del Sur S.Coop.,Retail,Pyme,Formulario,43,9,5,False,False,Convertido,25,19,44,Warm Lead
+227,Carmela Segura Noriega,c.carmelaseguranoriega@lamasyasociadoss.a..com,Director de Tecnología,Lamas y asociados S.A.,Tecnología,Micro,Evento,21,7,1,False,False,Convertido,40,17,57,Warm Lead
+228,Emilio del Gomila,emiliodelgomila@instalacionesgalanyasociadoss.com..com,Coordinador de Ventas,Instalaciones Galan y asociados S.Com.,Finanzas,Micro,Formulario,45,1,0,False,False,Perdido,40,11,51,Warm Lead
+229,Manuelita Llanos Maestre,manuelitallanosmaestre@restauracionqxps.c.p.com.es,Director de Estrategia,Restauración QXP S.C.P,Salud,Enterprise,Web,21,8,3,False,True,Convertido,40,50,90,Hot Lead
+230,Pepe Aníbal Olivares Salamanca,pepeanibalolivaressalamanca@tecnologiasgargallo&asociadoss.l.l..com.es,Director de Estrategia,Tecnologías Gargallo & Asociados S.L.L.,Retail,Pyme,Web,28,9,3,False,False,Perdido,35,19,54,Warm Lead
+231,Lisandro Llabrés-Cervantes,lisandro@industriascvs.a.t..com,Analista de Ventas,Industrias CV S.A.T.,Educación,Micro,Evento,20,3,3,True,False,Perdido,15,23,38,Cold Lead
+232,Amancio de Reyes,amanciodereyes@sureda&asociadoss.l..es,Ejecutivo Comercial,Sureda & Asociados S.L.,Educación,Pyme,Cold Call,7,2,1,False,False,Perdido,20,9,29,Cold Lead
+233,Abilio Cruz Ramírez,abiliocr@albinafloresmadrigals.com..com,Ejecutivo Comercial,Albina Flores Madrigal S.Com.,Educación,Enterprise,Evento,7,1,1,True,True,Convertido,25,50,75,Hot Lead
+234,Wilfredo Borrás Guerra,wilfredoborrasguerra@gruporioss.l.n.e.es,Sales Manager,Grupo Rios S.L.N.E,Salud,Enterprise,Web,31,10,4,False,False,Perdido,30,20,50,Warm Lead
+235,Ángel Arce Puerta,a.angelarcepuerta@gilbertomanceboarcoss.a..com,Gerente Comercial,Gilberto Mancebo Arcos S.A.,Finanzas,Micro,Formulario,28,9,0,False,False,Perdido,30,19,49,Warm Lead
+236,María Cristina Campo-Naranjo,mariacristinacampo-naranjo@tallereszamorayasociadoss.l.n.e.es,Director de Tecnología,Talleres Zamora y asociados S.L.N.E,Educación,Enterprise,Email,31,6,5,False,False,Convertido,40,16,56,Warm Lead
+237,Teodoro Varela Solé,t.teodorovarelasole@finanzascapdevilayasociadoss.a..com,VP de Marketing,Finanzas Capdevila y asociados S.A.,Salud,Pyme,Web,34,4,1,False,False,Perdido,35,14,49,Warm Lead
+238,Miriam Jimenez Estrada,m.miriamjimenezestrada@hermanosmarquezs.coop..com,Sales Manager,Hermanos Marquez S.Coop.,Tecnología,Enterprise,Formulario,34,5,4,False,True,Perdido,40,50,90,Hot Lead
+239,Chucho Ramirez,c.chuchoramirez@villalbaymosqueras.a..com,Gerente Comercial,Villalba y Mosquera S.A.,Tecnología,Enterprise,Formulario,2,1,1,False,False,Perdido,40,3,43,Warm Lead
+240,Cirino Checa Tejada,c.cirinochecatejada@hurtado&asociadoss.c.p.com,Analista de Marketing,Hurtado & Asociados S.C.P,Salud,Enterprise,Formulario,45,9,5,False,False,Perdido,25,19,44,Warm Lead
+241,Jacinto del Murcia,j.jacintodelmurcia@alimentacionjuradoyasociadoss.l..com,Analista de Ventas,Alimentación Jurado y asociados S.L.,Educación,Pyme,Cold Call,34,2,1,False,False,Perdido,20,12,32,Cold Lead
+242,Nazario Carrasco Solana,nazariocarrascosolana@distribucionesramirezyasociadoss.l..com,Asistente Comercial,Distribuciones Ramirez y asociados S.L.,Tecnología,Micro,Evento,41,2,2,False,False,Perdido,25,12,37,Cold Lead
+243,Gerónimo Marino Giner Gilabert,geronimomarinoginergilabert@tecnologiascoronados.coop..com.es,Business Development,Tecnologías Coronado S.Coop.,Retail,Pyme,Email,17,6,3,False,False,Perdido,20,16,36,Cold Lead
+244,Florentina Herminia Sotelo Gil,florentinaherminiasotelogil@compañiadelnortes.coop..es,COO,Compañía del Norte S.Coop.,Finanzas,Enterprise,Referido,20,9,0,False,False,Convertido,50,19,69,Warm Lead
+245,Angélica Caparrós Barrio,angelicacaparrosbarrio@despachoiberias.com..es,Business Development,Despacho Iberia S.Com.,Finanzas,Micro,Web,27,3,3,False,False,Perdido,25,13,38,Cold Lead
+246,Isaura Carnero,isauracarnero@transportesespañolas.l.n.e.com,Sales Manager,Transportes Española S.L.N.E,Retail,Pyme,Linkedin,6,3,0,True,False,Perdido,25,19,44,Warm Lead
+247,Rufina Baquero Santana,r.rufinabaquerosantana@solucionessauras.coop..com,CMO,Soluciones Saura S.Coop.,Salud,Enterprise,Web,17,1,1,False,False,Perdido,40,11,51,Warm Lead
+248,Joaquina del Almeida,joaquinadelalmeida@iñiguezyaceros.l..es,Director de Tecnología,Iñiguez y Acero S.L.,Finanzas,Enterprise,Email,5,0,0,False,True,Convertido,50,45,95,Hot Lead
+249,Angelina Arrieta-Roda,angelinaarrieta-roda@bartolome&asociadoss.l.n.e.com,Gerente Comercial,Bartolomé & Asociados S.L.N.E,Tecnología,Micro,Formulario,27,2,1,True,True,Perdido,30,50,80,Hot Lead
+250,Jonatan Angulo Madrid,jonatanangulomadrid@escolanoycerdas.l..es,Director de Operaciones,Escolano y Cerdá S.L.,Finanzas,Pyme,Formulario,48,2,2,False,False,Perdido,45,12,57,Warm Lead
+251,Florentina Piñeiro Sanabria,florenti@peñaybernats.l..com,VP de Ventas,Peña y Bernat S.L.,Salud,Pyme,Email,47,2,1,False,False,Perdido,35,12,47,Warm Lead
+252,Benita del Carrasco,b.benitadelcarrasco@serviciosangels.a..com,Analista de Marketing,Servicios Ángel S.A.,Tecnología,Enterprise,Referido,20,2,0,False,True,Perdido,35,50,85,Hot Lead
+253,Silvestre de Alsina,s.silvestredealsina@talleresrodrigoyasociadoss.l.l..com,Sales Manager,Talleres Rodrigo y asociados S.L.L.,Finanzas,Enterprise,Web,33,9,4,True,True,Convertido,40,50,90,Hot Lead
+254,Jeremías del Cortina,jeremias@finanzascarbajo&asociadoss.l.l..com,Analista de Marketing,Finanzas Carbajo & Asociados S.L.L.,Retail,Pyme,Referido,40,9,0,False,False,Perdido,20,19,39,Cold Lead
+255,María Luisa Alcázar Hernandez,m.marialuisaalcazarhernandez@comercializadoraespañolass.coop..com,Analista de Marketing,Comercializadora Españolas S.Coop.,Retail,Enterprise,Cold Call,43,2,1,False,False,Convertido,25,12,37,Cold Lead
+256,María Belén Atienza Hierro,mariabelenatienzahierro@hnosrodenass.a.u.es,CFO,Hnos Ródenas S.A.U,Salud,Micro,Cold Call,18,10,5,False,False,Perdido,30,20,50,Warm Lead
+257,René Barbero,r.renebarbero@instalacionesguillens.l.l..com,COO,Instalaciones Guillén S.L.L.,Educación,Enterprise,Linkedin,19,1,0,False,False,Perdido,40,11,51,Warm Lead
+258,Esther Montes-Gálvez,esthermontes-galvez@despachovazquez&asociadoss.com..es,Product Manager,Despacho Vázquez & Asociados S.Com.,Tecnología,Pyme,Email,15,0,0,True,False,Perdido,35,20,55,Warm Lead
+259,Américo Díez-Roldán,americod@asdrubalocañapiquers.l..com,Gerente de Producto,Asdrubal Ocaña Piquer S.L.,Salud,Micro,Email,0,0,0,False,False,Perdido,30,0,30,Cold Lead
+260,Obdulia Rico Real,obduliaricoreal@inversionespeñalvers.a..com,Analista de Marketing,Inversiones Peñalver S.A.,Finanzas,Micro,Formulario,1,1,1,False,True,Perdido,25,42,67,Warm Lead
+261,Juana de Gomis,j.juanadegomis@despachosierra&asociadoss.coop..com,Gerente de Ventas,Despacho Sierra & Asociados S.Coop.,Retail,Pyme,Linkedin,31,9,1,False,True,Convertido,25,50,75,Hot Lead
+262,Manuela Cañete Pont,manuelacañetepont@infraestructurasibericas.com..com,Marketing Manager,Infraestructuras Ibérica S.Com.,Tecnología,Micro,Linkedin,0,0,0,False,False,Perdido,30,0,30,Cold Lead
+263,Íñigo Sandoval Peláez,iñigosan@finanzasnjs.coop..com,Analista de Ventas,Finanzas NJ S.Coop.,Educación,Enterprise,Evento,15,6,5,False,False,Perdido,25,16,41,Warm Lead
+264,Ciríaco Gaya Tello,ciriacogayatello@manufacturasinteligentess.l.n.e.com.es,Director de Estrategia,Manufacturas Inteligentes S.L.N.E,Tecnología,Micro,Linkedin,25,1,1,False,False,Perdido,40,11,51,Warm Lead
+265,Curro Falcón Carpio,c.currofalconcarpio@yaizaherrerafuentes.com..com,CMO,Yaiza Herrera Fuente S.Com.,Tecnología,Pyme,Cold Call,50,4,4,True,True,Perdido,45,50,95,Hot Lead
+266,Leoncio del Luna,leonciodelluna@solanoypalomars.com..com,Analista de Marketing,Solano y Palomar S.Com.,Educación,Micro,Referido,1,0,0,False,False,Convertido,15,1,16,Cold Lead
+267,Loida Valencia Solano,loidavalenciasolano@tecnologiasvtvs.coop..com,Product Manager,Tecnologías VTV S.Coop.,Retail,Enterprise,Web,33,3,3,False,True,Perdido,30,50,80,Hot Lead
+268,Raimundo de Alegre,raimundodealegre@solucionesmarquez&asociadoss.a..es,Analista de Ventas,Soluciones Marquez & Asociados S.A.,Tecnología,Micro,Email,23,7,5,True,True,Convertido,25,50,75,Hot Lead
+269,Goyo de Valera,goyodevalera@jimenezyasociadoss.l.n.e.es,Analista de Ventas,Jiménez y asociados S.L.N.E,Educación,Enterprise,Email,8,1,1,False,False,Perdido,25,9,34,Cold Lead
+270,Jimena Diéguez Ortuño,j.jimenadieguezortuño@desarrollotorress.a..com,Business Development,Desarrollo Torres S.A.,Finanzas,Pyme,Web,4,1,0,False,False,Perdido,30,5,35,Cold Lead
+271,Miguela de Zamora,migueladezamora@familiaatienzas.l..com.es,Director de Tecnología,Familia Atienza S.L.,Finanzas,Pyme,Evento,49,3,3,True,True,Convertido,45,50,95,Hot Lead
+272,Bernardita Guardia Bayo,bernardi@alimentaciongils.coop..com,Director de Estrategia,Alimentación Gil S.Coop.,Finanzas,Enterprise,Formulario,20,2,0,False,False,Perdido,50,12,62,Warm Lead
+273,América Tomas Torrents,americatomastorrents@familiareinas.a..es,CFO,Familia Reina S.A.,Finanzas,Micro,Formulario,28,8,5,False,True,Convertido,40,50,90,Hot Lead
+274,Palmira Llobet,palmiral@bancaprivadavallesyasociadoss.l.l..com,Analista de Ventas,Banca Privada Vallés y asociados S.L.L.,Tecnología,Micro,Web,25,5,5,False,False,Perdido,25,15,40,Warm Lead
+275,Balduino Bárcena Zamora,balduinobarcenazamora@industriasfernandezs.coop..es,Director de Ventas,Industrias Fernandez S.Coop.,Tecnología,Micro,Formulario,8,0,0,True,False,Convertido,40,18,58,Warm Lead
+276,Saturnino Pablo-Lastra,saturninopablo-lastra@bermudezypereas.l.n.e.es,Coordinador de Ventas,Bermúdez y Perea S.L.N.E,Retail,Pyme,Email,27,2,1,True,True,Convertido,35,50,85,Hot Lead
+277,Marcia Hervia Gonzalez,m.marciaherviagonzalez@compañiaangulo&asociadoss.com..com,Analista de Ventas,Compañía Angulo & Asociados S.Com.,Educación,Enterprise,Referido,26,8,3,True,True,Convertido,25,50,75,Hot Lead
+278,Mamen Tamarit Barba,mamentamaritbarba@grupoblanchs.coop..com,Director Comercial,Grupo Blanch S.Coop.,Salud,Enterprise,Referido,50,5,3,False,False,Perdido,40,15,55,Warm Lead
+279,Mireia Muñoz Bustos,m.mireiamuñozbustos@grupogalvans.l.n.e.com,Gerente Comercial,Grupo Galván S.L.N.E,Finanzas,Micro,Cold Call,14,0,0,True,False,Perdido,30,20,50,Warm Lead
+280,Juanita Linares-Artigas,juanital@inmobiliariadbwqs.l.n.e.com,Analista de Marketing,Inmobiliaria DBWQ S.L.N.E,Salud,Micro,Evento,34,0,0,False,False,Perdido,15,10,25,Cold Lead
+281,Bienvenida Puig-Benítez,b.bienvenidapuig-benitez@distribucioneshernandezyasociadoss.l..com,Analista de Marketing,Distribuciones Hernandez y asociados S.L.,Salud,Micro,Formulario,47,5,4,True,False,Perdido,15,25,40,Warm Lead
+282,Eusebia del Chaves,e.eusebiadelchaves@mineriafms.a..com,Sales Manager,Minería FM S.A.,Salud,Pyme,Web,31,0,0,True,False,Convertido,25,20,45,Warm Lead
+283,Rebeca María Luisa Puente Morera,r.rebecamarialuisapuentemorera@hermanossanjuans.coop..com,Gerente de Producto,Hermanos Sanjuan S.Coop.,Educación,Micro,Email,11,6,2,True,True,Perdido,30,50,80,Hot Lead
+284,Manola Perez Rosales,m.manolaperezrosales@restauracionboadas.l..com,Director de Ventas,Restauración Boada S.L.,Educación,Pyme,Email,42,6,4,True,True,Convertido,35,50,85,Hot Lead
+285,Sabas Duilio Beltrán Blanca,sabasdui@despachopinto&asociadoss.l..com,Director de Tecnología,Despacho Pinto & Asociados S.L.,Retail,Enterprise,Email,35,9,2,True,True,Convertido,40,50,90,Hot Lead
+286,Fernanda Campillo Bravo,fernandacampillobravo@hermanossaless.com..com,Marketing Manager,Hermanos Sales S.Com.,Finanzas,Micro,Email,36,6,4,True,False,Perdido,30,26,56,Warm Lead
+287,Aurelio Cazorla-Bonet,aurelioc@suministrossanchezs.coop..com,Analista de Marketing,Suministros Sanchez S.Coop.,Educación,Micro,Evento,47,1,0,False,False,Perdido,15,11,26,Cold Lead
+288,Griselda Calderón,g.griseldacalderon@familiaoteros.coop..com,Business Development,Familia Otero S.Coop.,Finanzas,Pyme,Web,15,1,1,False,False,Convertido,30,11,41,Warm Lead
+289,María Belén Rita Morata Plaza,mariabelenritamorataplaza@hermanosribas.com..es,Marketing Manager,Hermanos Riba S.Com.,Retail,Micro,Referido,22,8,3,True,True,Perdido,20,50,70,Hot Lead
+290,Primitivo Herrero Vázquez,primitivoherrerovazquez@restauraciondomenechs.a..com,Marketing Manager,Restauración Doménech S.A.,Salud,Micro,Formulario,2,1,0,False,False,Convertido,20,3,23,Cold Lead
+291,Eloy Jose Manuel Coello Barroso,eloyjosemanuelcoellobarroso@suministrosllorentes.com..com.es,Director de Tecnología,Suministros Llorente S.Com.,Salud,Enterprise,Linkedin,21,9,4,False,False,Perdido,40,19,59,Warm Lead
+292,Ricarda Benítez Paniagua,ricardabenitezpaniagua@industriasvalcarcel&asociadoss.coop..com,Sales Manager,Industrias Valcárcel & Asociados S.Coop.,Retail,Micro,Evento,13,3,3,False,False,Perdido,20,13,33,Cold Lead
+293,Evaristo Agudo Priego,evaristoagudopriego@pintoyasociadoss.com..com,Director de Operaciones,Pinto y asociados S.Com.,Finanzas,Micro,Referido,36,8,3,True,True,Convertido,40,50,90,Hot Lead
+294,Sabina Cerdán Mas,sabinacerdanmas@fontyasociadoss.com..com,Director de Estrategia,Font y asociados S.Com.,Educación,Pyme,Linkedin,13,2,2,False,True,Perdido,35,50,85,Hot Lead
+295,Esther Manuel Tudela,e.esthermanueltudela@logisticadelmediterraneos.c.p.com,Gerente Comercial,Logística del Mediterráneo S.C.P,Retail,Pyme,Linkedin,41,8,3,True,False,Perdido,25,28,53,Warm Lead
+296,Filomena Carbonell Folch,filomena@bancaprivadaserranos.l.n.e.com,Gerente de Producto,Banca Privada Serrano S.L.N.E,Retail,Pyme,Formulario,17,9,0,True,False,Convertido,35,29,64,Warm Lead
+297,Isidoro Manuel,isidoromanuel@solucioneszgmis.l..com.es,Product Manager,Soluciones ZGMI S.L.,Educación,Pyme,Web,35,0,0,False,False,Perdido,25,10,35,Cold Lead
+298,Angelina Sanchez Tello,a.angelinasancheztello@velazquezyripolls.coop..com,Coordinador de Ventas,Velázquez y Ripoll S.Coop.,Educación,Micro,Linkedin,25,0,0,True,False,Convertido,30,20,50,Warm Lead
+299,Odalys Blázquez Canales,odalysblazquezcanales@mineriaiberias.l..es,Analista de Marketing,Minería Iberia S.L.,Salud,Micro,Linkedin,43,6,1,False,False,Perdido,15,16,31,Cold Lead
+300,Lope Pulido Mármol,lopepulidomarmol@camachoyalarcons.a..com.es,Director de Estrategia,Camacho y Alarcón S.A.,Tecnología,Micro,Referido,35,5,2,False,False,Convertido,40,15,55,Warm Lead
+301,José Mari de Salinas,josemaridesalinas@posadayasociadoss.l..es,Asistente Comercial,Posada y asociados S.L.,Educación,Pyme,Web,9,4,4,False,False,Perdido,20,13,33,Cold Lead
+302,Nuria Vall-Contreras,nuriavall-contreras@amatyasociadoss.a..es,Director de Ventas,Amat y asociados S.A.,Finanzas,Enterprise,Evento,24,10,3,False,False,Perdido,50,20,70,Hot Lead
+303,Águeda Boada Carmona,aguedaboadacarmona@mineriamesas.com..com,Sales Manager,Minería Mesa S.Com.,Educación,Enterprise,Referido,21,3,0,False,False,Perdido,30,13,43,Warm Lead
+304,Juan Bautista Tomas,juanbautistatomas@tamayo&asociadoss.com..es,VP de Marketing,Tamayo & Asociados S.Com.,Finanzas,Pyme,Formulario,44,10,0,False,True,Convertido,45,50,95,Hot Lead
+305,Esther Bautista Marín,estherbautistamarin@familiaalsinas.l.l..com.es,Ejecutivo Comercial,Familia Alsina S.L.L.,Finanzas,Enterprise,Email,5,1,1,False,False,Perdido,35,6,41,Warm Lead
+306,Nilo Córdoba Hervás,nilocordobahervas@distribucionesmuros.coop..com,Ejecutivo Comercial,Distribuciones Muro S.Coop.,Tecnología,Enterprise,Evento,45,8,3,True,False,Perdido,35,28,63,Warm Lead
+307,Cristina Quirós Espinosa,cristinaquirosespinosa@suministrospriegos.a..com,CTO,Suministros Priego S.A.,Salud,Micro,Referido,3,1,0,False,False,Perdido,30,4,34,Cold Lead
+308,Verónica Chita Sancho Román,veronicachitasanchoroman@acuñaygarmendias.a.d.es,Gerente de Ventas,Acuña y Garmendia S.A.D,Tecnología,Micro,Cold Call,28,2,1,False,False,Perdido,30,12,42,Warm Lead
+309,Luis Cal Estévez,luiscalestevez@moreno&asociadoss.coop..es,Business Development,Moreno & Asociados S.Coop.,Tecnología,Pyme,Linkedin,10,6,4,False,False,Perdido,30,16,46,Warm Lead
+310,Nico Tovar-Álamo,nicotovar-alamo@pontyasociadoss.coop..com.es,Director de Marketing,Pont y asociados S.Coop.,Finanzas,Enterprise,Linkedin,49,10,0,False,True,Convertido,50,50,100,Hot Lead
+311,Feliciana Seco Duque,f.felicianasecoduque@compañiacañeteyasociadoss.a..com,Analista de Marketing,Compañía Cañete y asociados S.A.,Finanzas,Enterprise,Referido,24,5,3,False,False,Perdido,35,15,50,Warm Lead
+312,Bautista Ciriaco Perea Cid,bautistaciriacopereacid@ripollycerveras.coop..com.es,Coordinador de Ventas,Ripoll y Cervera S.Coop.,Educación,Micro,Email,23,8,5,False,True,Perdido,30,50,80,Hot Lead
+313,Cayetana Torrecilla Duran,c.cayetanatorrecilladuran@transportesmalos.a..com,Gerente de Producto,Transportes Malo S.A.,Finanzas,Enterprise,Evento,41,10,2,True,True,Convertido,50,50,100,Hot Lead
+314,Soledad Sanmartín Baeza,s.soledadsanmartinbaeza@agustiyasociadoss.a..com,VP de Marketing,Agustí y asociados S.A.,Educación,Pyme,Email,8,5,0,False,False,Perdido,35,13,48,Warm Lead
+315,Mar Vega Uría,marvegau@tellezyricarts.l..com,Gerente Comercial,Téllez y Ricart S.L.,Tecnología,Enterprise,Evento,46,3,3,False,False,Perdido,40,13,53,Warm Lead
+316,Laura Diego Blanch,lauradiegoblanch@grupomanzanos.a..com,Business Development,Grupo Manzano S.A.,Educación,Micro,Referido,8,5,2,False,False,Perdido,15,13,28,Cold Lead
+317,Julio César del Diéguez,julioces@clarisavalbuenavicentes.a..com,Ejecutivo Comercial,Clarisa Valbuena Vicente S.A.,Tecnología,Micro,Email,19,6,2,False,False,Perdido,25,16,41,Warm Lead
+318,Eloy Pedraza Arnaiz,eloypedrazaarnaiz@carinagilrodriguezs.a..es,Director de Ventas,Carina Gil Rodríguez S.A.,Educación,Enterprise,Web,32,1,1,False,False,Perdido,40,11,51,Warm Lead
+319,Eustaquio de Sandoval,eustaquiodesandoval@mineriabonetyasociadoss.l.n.e.es,Director de Marketing,Minería Bonet y asociados S.L.N.E,Finanzas,Pyme,Web,20,2,0,False,False,Perdido,45,12,57,Warm Lead
+320,Román Gálvez Gallego,romangal@roman&asociadoss.coop..com,Gerente de Ventas,Roman & Asociados S.Coop.,Retail,Pyme,Cold Call,48,2,1,False,False,Perdido,25,12,37,Cold Lead
+321,Santos Gabaldón,santosgabaldon@hermanoslucass.coop..es,Gerente Comercial,Hermanos Lucas S.Coop.,Retail,Pyme,Linkedin,2,2,0,False,False,Perdido,25,4,29,Cold Lead
+322,Felix Marco Mancebo,felixmar@construccioncerdayasociadoss.l.n.e.com,Asistente Comercial,Construcción Cerdá y asociados S.L.N.E,Salud,Micro,Web,44,5,2,True,True,Perdido,15,50,65,Warm Lead
+323,Toribio Castañeda-Cazorla,toribiocastañeda-cazorla@despachointernacionaless.l.l..com.es,Director de Ventas,Despacho Internacionales S.L.L.,Finanzas,Pyme,Cold Call,33,5,3,False,False,Perdido,45,15,60,Warm Lead
+324,Laura Cisneros Leiva,lauracisnerosleiva@perezysanss.a..com,Ejecutivo Comercial,Perez y Sans S.A.,Salud,Micro,Web,14,2,0,False,False,Perdido,15,12,27,Cold Lead
+325,Heriberto Villalba Lobo,h.heribertovillalbalobo@sanzyasociadoss.com..com,Marketing Manager,Sanz y asociados S.Com.,Tecnología,Pyme,Formulario,34,9,0,False,True,Convertido,35,50,85,Hot Lead
+326,Toño Buendía Sedano,toñobuendiasedano@barrosoyasociadoss.a.t..es,Analista de Ventas,Barroso y asociados S.A.T.,Tecnología,Pyme,Linkedin,35,4,3,False,False,Perdido,30,14,44,Warm Lead
+327,Sara Galán Uría,s.saragalanuria@logisticaluqueyasociadoss.coop..com,CMO,Logística Luque y asociados S.Coop.,Tecnología,Enterprise,Cold Call,38,2,1,False,False,Perdido,50,12,62,Warm Lead
+328,Lorenzo Toro Nuñez,lorenzotoronuñez@familiacabezass.l..com.es,Director de Ventas,Familia Cabezas S.L.,Tecnología,Pyme,Web,49,4,4,False,False,Perdido,45,14,59,Warm Lead
+329,Adriana Casanova Cruz,a.adrianacasanovacruz@yagoabascalromans.a.d.com,Director Comercial,Yago Abascal Roman S.A.D,Retail,Micro,Web,0,0,0,False,False,Perdido,30,0,30,Cold Lead
+330,Valero Matas Cuenca,v.valeromatascuenca@compañiapalomoyasociadoss.a..com,Director de Ventas,Compañía Palomo y asociados S.A.,Educación,Micro,Email,14,7,2,False,True,Perdido,30,50,80,Hot Lead
+331,Amancio Prieto Mayoral,amancioprietomayoral@suministrosespañolas.l..es,Ejecutivo Comercial,Suministros Española S.L.,Finanzas,Enterprise,Email,7,0,0,True,True,Perdido,35,50,85,Hot Lead
+332,Custodio Tapia Bermejo,custodiotapiabermejo@hotelvivess.l..com,Gerente Comercial,Hotel Vives S.L.,Educación,Pyme,Evento,21,2,0,False,False,Perdido,25,12,37,Cold Lead
+333,Adalberto Nuñez Carreño,adalbert@catalanytejedors.a..com,Product Manager,Catalán y Tejedor S.A.,Retail,Pyme,Linkedin,8,5,5,True,False,Convertido,25,23,48,Warm Lead
+334,Anunciación Calatayud Calderón,anunciac@pedreroyasociadoss.a..com,Sales Manager,Pedrero y asociados S.A.,Retail,Enterprise,Cold Call,24,5,4,True,False,Perdido,30,25,55,Warm Lead
+335,Miguel Ángel Clavero Bayona,miguelangelclaverobayona@gruposacristans.com..es,Analista de Marketing,Grupo Sacristán S.Com.,Retail,Pyme,Referido,2,0,0,False,True,Perdido,20,42,62,Warm Lead
+336,Mauricio Cordero,mauricio@salasygayas.a..com,Marketing Manager,Salas y Gaya S.A.,Educación,Enterprise,Email,21,8,4,False,False,Perdido,30,18,48,Warm Lead
+337,Buenaventura Casal Plana,buenaven@romanyasociadoss.l..com,Coordinador de Ventas,Román y asociados S.L.,Finanzas,Enterprise,Formulario,35,9,0,True,False,Perdido,50,29,79,Hot Lead
+338,Emiliano de Hurtado,e.emilianodehurtado@bancaprivadamata&asociadoss.coop..com,Gerente Comercial,Banca Privada Mata & Asociados S.Coop.,Salud,Micro,Web,21,4,0,False,False,Perdido,20,14,34,Cold Lead
+339,Cecilia Pou,ceciliapou@comercialherasyasociadoss.com..com.es,Analista de Ventas,Comercial Heras y asociados S.Com.,Retail,Pyme,Referido,5,3,3,False,False,Perdido,20,8,28,Cold Lead
+340,Josep de Álvarez,josepdealvarez@hermanosmoliners.a..com.es,CMO,Hermanos Moliner S.A.,Retail,Micro,Linkedin,5,2,2,False,False,Perdido,30,7,37,Cold Lead
+341,Ignacia Pavón-Duque,i.ignaciapavon-duque@marialuisabeltranalegrias.coop..com,Product Manager,María Luisa Beltran Alegria S.Coop.,Tecnología,Micro,Cold Call,49,9,4,False,False,Perdido,30,19,49,Warm Lead
+342,Eleuterio Garriga Ariño,e.eleuteriogarrigaariño@hnosvelazquezs.c.p.com,Director de Estrategia,Hnos Velázquez S.C.P,Salud,Micro,Formulario,40,4,4,False,False,Convertido,30,14,44,Warm Lead
+343,Raquel Ribes,raquelribes@quesadayblancas.l..com.es,Director de Marketing,Quesada y Blanca S.L.,Retail,Micro,Web,12,1,1,False,False,Perdido,30,11,41,Warm Lead
+344,María Manuela de Lobato,mariamanueladelobato@inversionesaks.l.l..com,Product Manager,Inversiones AK S.L.L.,Retail,Micro,Formulario,28,7,5,False,False,Perdido,20,17,37,Cold Lead
+345,Eugenia del Batalla,eugeniadelbatalla@suministrosgomez&asociadoss.a.u.com.es,VP de Ventas,Suministros Gómez & Asociados S.A.U,Tecnología,Enterprise,Referido,32,2,2,False,False,Perdido,50,12,62,Warm Lead
+346,Azahar Santana Ballesteros,azaharsantanaballesteros@farmaceuticacarreras&asociadoss.l..es,Sales Manager,Farmaceútica Carreras & Asociados S.L.,Educación,Pyme,Referido,38,3,2,False,False,Perdido,25,13,38,Cold Lead
+347,Ceferino Valderrama Oliver,c.ceferinovalderramaoliver@distribucionesperal&asociadoss.l..com,Analista de Marketing,Distribuciones Peral & Asociados S.L.,Retail,Enterprise,Formulario,44,8,2,False,False,Perdido,25,18,43,Warm Lead
+348,Quique Carranza-Andreu,quiqueca@romanyasociadoss.coop..com,Director Comercial,Román y asociados S.Coop.,Finanzas,Enterprise,Email,41,2,2,False,False,Perdido,50,12,62,Warm Lead
+349,Pelayo Benítez-Valderrama,pelayobenitez-valderrama@ariadnapalominobaqueros.coop..es,Asistente Comercial,Ariadna Palomino Baquero S.Coop.,Retail,Enterprise,Email,47,8,2,False,False,Convertido,25,18,43,Warm Lead
+350,Carina Pedro-Criado,carinape@construccioncarlos&asociadoss.l..com,Director de Tecnología,Construcción Carlos & Asociados S.L.,Salud,Micro,Evento,48,2,1,False,False,Convertido,30,12,42,Warm Lead
+351,Alfredo Alberola Hidalgo,alfredoalberolahidalgo@hnospascuals.com..es,Analista de Marketing,Hnos Pascual S.Com.,Educación,Micro,Linkedin,39,10,5,False,True,Perdido,15,50,65,Warm Lead
+352,Chuy Aranda Rius,chuyarandarius@logisticaibericoss.com..es,Sales Manager,Logística Ibéricos S.Com.,Finanzas,Enterprise,Referido,26,10,2,False,True,Perdido,40,50,90,Hot Lead
+353,Elba Bermejo Peralta,elbabermejoperalta@comerciallas.a..com.es,Director de Tecnología,Comercial LA S.A.,Salud,Enterprise,Cold Call,47,9,1,False,False,Perdido,40,19,59,Warm Lead
+354,Anastasia Sola Lumbreras,anastasiasolalumbreras@logisticaboixyasociadoss.a..com.es,Director de Estrategia,Logística Boix y asociados S.A.,Tecnología,Micro,Linkedin,24,0,0,False,False,Perdido,40,10,50,Warm Lead
+355,Esteban Mateu,estebanm@talleresdellevantes.coop..com,Analista de Ventas,Talleres del Levante S.Coop.,Finanzas,Pyme,Linkedin,9,2,2,True,False,Perdido,30,21,51,Warm Lead
+356,Reina Ferrán Higueras,reinaferranhigueras@alimentacionredondos.a..com,Gerente Comercial,Alimentación Redondo S.A.,Educación,Enterprise,Formulario,45,5,4,True,True,Convertido,30,50,80,Hot Lead
+357,Fanny de Naranjo,fannydenaranjo@hnosmelendezs.a..com,Gerente Comercial,Hnos Meléndez S.A.,Educación,Enterprise,Evento,14,3,2,False,False,Perdido,30,13,43,Warm Lead
+358,Cándida Rivas,candidarivas@benitocisneroslosadas.a..com,Gerente Comercial,Benito Cisneros Losada S.A.,Educación,Enterprise,Email,22,7,1,False,False,Perdido,30,17,47,Warm Lead
+359,Vidal del Perales,vidaldelperales@marianablazquezbustoss.coop..com,Business Development,Mariana Blazquez Bustos S.Coop.,Finanzas,Pyme,Referido,16,8,5,False,False,Perdido,30,18,48,Warm Lead
+360,Angelita Barrios Royo,angelitabarriosroyo@industriasmanzanaress.c.p.com,Product Manager,Industrias Manzanares S.C.P,Educación,Pyme,Evento,41,3,2,False,False,Perdido,25,13,38,Cold Lead
+361,Ángeles Pozo Morera,angelesp@santamariayasociadoss.a.u.com,Asistente Comercial,Santamaría y asociados S.A.U,Educación,Micro,Email,40,3,3,False,False,Perdido,15,13,28,Cold Lead
+362,Borja Canales,borjacan@construccioncordobas.coop..com,Business Development,Construcción Córdoba S.Coop.,Retail,Enterprise,Linkedin,29,5,0,True,True,Perdido,25,50,75,Hot Lead
+363,Griselda Carrillo Palma,griseldacarrillopalma@supermercadosinteligentess.coop..es,Sales Manager,Supermercados Inteligentes S.Coop.,Salud,Pyme,Referido,40,6,3,False,False,Perdido,25,16,41,Warm Lead
+364,Artemio Criado Mayo,artemiocriadomayo@grupomosqueras.a..com,VP de Ventas,Grupo Mosquera S.A.,Educación,Micro,Email,4,2,2,True,False,Perdido,30,16,46,Warm Lead
+365,Gaspar del Vilanova,gaspardelvilanova@hermanosjuans.l.l..com,VP de Marketing,Hermanos Juan S.L.L.,Retail,Pyme,Referido,10,4,1,True,True,Convertido,35,50,85,Hot Lead
+366,Albino Quiroga Santamaria,a.albinoquirogasantamaria@construcciondelnortes.a..com,Marketing Manager,Construcción del Norte S.A.,Salud,Pyme,Linkedin,35,8,1,True,True,Perdido,25,50,75,Hot Lead
+367,Benjamín Albero Barrio,benjamin@desarrolloibericas.l.l..com,Gerente de Ventas,Desarrollo Ibérica S.L.L.,Finanzas,Micro,Referido,41,8,1,True,True,Perdido,30,50,80,Hot Lead
+368,Noelia Blasco Jove,noeliablascojove@bancaprivadakhs.l.l..es,Director de Marketing,Banca Privada KH S.L.L.,Educación,Micro,Email,35,1,1,False,False,Perdido,30,11,41,Warm Lead
+369,Víctor Mármol Carvajal,victormarmolcarvajal@hnosayusos.a..com,Gerente de Producto,Hnos Ayuso S.A.,Finanzas,Micro,Evento,39,1,0,False,False,Perdido,40,11,51,Warm Lead
+370,Iris Prat-Valderrama,i.irisprat-valderrama@hnosroldans.a..com,Sales Manager,Hnos Roldan S.A.,Salud,Enterprise,Formulario,20,6,1,True,True,Convertido,30,50,80,Hot Lead
+371,Wálter Exposito,w.walterexposito@inmobiliariasalmeron&asociadoss.a..com,Coordinador de Ventas,Inmobiliaria Salmerón & Asociados S.A.,Finanzas,Pyme,Referido,29,7,2,False,False,Perdido,45,17,62,Warm Lead
+372,María Manuela Delfina Marquez Valenzuela,mariaman@telloybarreras.a..com,Gerente de Ventas,Tello y Barrera S.A.,Finanzas,Micro,Evento,46,10,0,False,False,Perdido,30,20,50,Warm Lead
+373,Bernardita Rius Flores,bernarditariusflores@bancaprivadadelmediterraneos.l..com.es,Product Manager,Banca Privada del Mediterráneo S.L.,Educación,Enterprise,Web,2,2,1,False,False,Perdido,30,4,34,Cold Lead
+374,Julia Tormo Núñez,j.juliatormonuñez@pontyasociadoss.a..com,Ejecutivo Comercial,Pont y asociados S.A.,Retail,Micro,Web,29,8,4,True,True,Convertido,15,50,65,Warm Lead
+375,María Gilabert Andreu,mariagilabertandreu@comercialsuarezyasociadoss.l..es,Director Comercial,Comercial Suarez y asociados S.L.,Salud,Enterprise,Web,11,4,4,False,False,Perdido,40,14,54,Warm Lead
+376,Cebrián de Huguet,cebriand@inmobiliariacastellanas.l..com,Gerente de Producto,Inmobiliaria Castellana S.L.,Tecnología,Micro,Linkedin,16,5,1,True,True,Perdido,40,50,90,Hot Lead
+377,Lucio del Pacheco,l.luciodelpacheco@farmaceuticaguzmans.coop..com,Gerente Comercial,Farmaceútica Guzmán S.Coop.,Retail,Micro,Linkedin,45,8,5,False,False,Perdido,20,18,38,Cold Lead
+378,Zaira Anaya Ortiz,z.zairaanayaortiz@finanzasugartes.coop..com,Gerente de Marketing,Finanzas Ugarte S.Coop.,Retail,Enterprise,Cold Call,41,1,1,False,False,Perdido,30,11,41,Warm Lead
+379,Jose Luis Arellano Bosch,joseluisarellanobosch@grupogilaberts.a..es,Product Manager,Grupo Gilabert S.A.,Finanzas,Pyme,Cold Call,0,0,0,False,True,Perdido,35,40,75,Hot Lead
+380,Abigaíl Mármol Fortuny,abigailmarmolfortuny@manufacturaseliass.l.n.e.com,Director de Marketing,Manufacturas Elías S.L.N.E,Salud,Pyme,Email,14,6,2,False,False,Perdido,35,16,51,Warm Lead
+381,América Almeida Coloma,americaalmeidacoloma@consultoriazorrillas.l.l..com,Director de Marketing,Consultoría Zorrilla S.L.L.,Retail,Micro,Web,36,9,1,True,True,Perdido,30,50,80,Hot Lead
+382,Glauco Priego Cabrero,glaucopriegocabrero@matasyasociadoss.a..es,Director de Marketing,Matas y asociados S.A.,Finanzas,Micro,Cold Call,36,10,0,False,False,Perdido,40,20,60,Warm Lead
+383,Pío Rueda Torrens,pioruedatorrens@davilayasociadoss.a.t..es,Analista de Marketing,Dávila y asociados S.A.T.,Retail,Enterprise,Web,14,6,4,True,False,Perdido,25,26,51,Warm Lead
+384,Sabina Echevarría-Pineda,sabinaechevarria-pineda@instalacionescastejon&asociadoss.l..es,Sales Manager,Instalaciones Castejón & Asociados S.L.,Finanzas,Micro,Cold Call,37,1,0,False,False,Convertido,30,11,41,Warm Lead
+385,Genoveva Antúnez-Espada,genovevaantunez-espada@giner&asociadoss.l.n.e.com,Sales Manager,Giner & Asociados S.L.N.E,Retail,Micro,Web,30,9,4,True,False,Perdido,20,29,49,Warm Lead
+386,Fito Bermejo Gárate,fitobermejogarate@montenegro&asociadoss.l..com,Director de Tecnología,Montenegro & Asociados S.L.,Salud,Enterprise,Formulario,43,10,3,False,False,Convertido,40,20,60,Warm Lead
+387,Segismundo Narváez Salom,segismundonarvaezsalom@hermanosgallegos.c.p.com.es,Gerente de Marketing,Hermanos Gallego S.C.P,Retail,Pyme,Formulario,47,9,0,False,True,Perdido,25,50,75,Hot Lead
+388,Gabino Jerez Campoy,gabinojerezcampoy@familiapolos.com..es,Analista de Ventas,Familia Polo S.Com.,Finanzas,Enterprise,Evento,12,0,0,False,False,Convertido,35,10,45,Warm Lead
+389,Carina Riba Ureña,carinaribaureña@ortegayperezs.a..com,Marketing Manager,Ortega y Perez S.A.,Finanzas,Pyme,Web,27,10,4,True,False,Convertido,35,30,65,Warm Lead
+390,Rocío Gomis Cánovas,rociogomiscanovas@candelarioaragonesmariños.a..com.es,Gerente de Producto,Candelario Aragonés Mariño S.A.,Retail,Micro,Formulario,35,7,1,False,False,Perdido,30,17,47,Warm Lead
+391,Baldomero Benavent-Nogués,baldomerobenavent-nogues@restauracioncuevass.l..com,Gerente de Producto,Restauración Cuevas S.L.,Retail,Enterprise,Email,14,7,5,False,False,Perdido,40,17,57,Warm Lead
+392,Viviana de Neira,vivianad@julieanguitarosados.l.n.e.com,Asistente Comercial,Julie Anguita Rosado S.L.N.E,Educación,Enterprise,Referido,40,0,0,False,False,Perdido,25,10,35,Cold Lead
+393,Marcio Rovira Crespo,marcioroviracrespo@familiamuñozs.a.d.com.es,CFO,Familia Muñoz S.A.D,Salud,Pyme,Linkedin,46,6,3,False,False,Perdido,35,16,51,Warm Lead
+394,Hernando Lara,hernandolara@inversionesgamez&asociadoss.a..es,Product Manager,Inversiones Gámez & Asociados S.A.,Salud,Enterprise,Linkedin,12,4,1,True,False,Perdido,30,24,54,Warm Lead
+395,Malena Tudela-Corral,malenatudela-corral@hermanosacevedos.com..com,Director de Marketing,Hermanos Acevedo S.Com.,Tecnología,Pyme,Web,5,2,1,False,False,Perdido,45,7,52,Warm Lead
+396,Sergio Natalio Tenorio Flores,s.sergionataliotenorioflores@bancaprivadaips.a..com,Marketing Manager,Banca Privada IP S.A.,Tecnología,Micro,Email,35,9,2,False,False,Perdido,30,19,49,Warm Lead
+397,Fabio Puga Sotelo,f.fabiopugasotelo@teresalandabous.l..com,Coordinador de Ventas,Teresa Landa Bou S.L.,Retail,Enterprise,Web,26,8,0,False,False,Perdido,40,18,58,Warm Lead
+398,Catalina Peláez Pizarro,c.catalinapelaezpizarro@estevezyasociadoss.a..com,Director Comercial,Estévez y asociados S.A.,Finanzas,Enterprise,Email,28,6,4,False,True,Convertido,50,50,100,Hot Lead
+399,Josefa Lago Gonzalo,josefalagogonzalo@comercialcorbacho&asociadoss.a..es,Business Development,Comercial Corbacho & Asociados S.A.,Retail,Enterprise,Linkedin,16,1,1,False,False,Perdido,25,11,36,Cold Lead
+400,Roxana Riba Gordillo,roxanaribagordillo@hnosyañezs.com..com.es,Director de Operaciones,Hnos Yáñez S.Com.,Retail,Pyme,Linkedin,44,4,1,True,True,Perdido,35,50,85,Hot Lead
+401,Noelia del Gutiérrez,n.noeliadelgutierrez@marcelinobermudezprats.l.n.e.com,Sales Manager,Marcelino Bermúdez Prat S.L.N.E,Salud,Pyme,Web,36,4,1,False,False,Perdido,25,14,39,Cold Lead
+402,José Villanueva Colom,j.josevillanuevacolom@supermercadosxis.a.t..com,Gerente de Marketing,Supermercados XI S.A.T.,Salud,Enterprise,Web,14,3,1,False,False,Perdido,30,13,43,Warm Lead
+403,Bernardino Arnau,bernardinoarnau@bermudezyrozass.a.d.com.es,Director de Ventas,Bermudez y Rozas S.A.D,Retail,Enterprise,Linkedin,30,5,4,False,False,Perdido,40,15,55,Warm Lead
+404,Silvestre Jordá Montenegro,s.silvestrejordamontenegro@compañiaccss.coop..com,Gerente de Producto,Compañía CCS S.Coop.,Retail,Micro,Referido,14,2,0,False,False,Perdido,30,12,42,Warm Lead
+405,Rubén Yáñez Rivas,rubenyañezrivas@solucioneshes.l..es,CFO,Soluciones HE S.L.,Retail,Enterprise,Linkedin,44,8,3,True,True,Convertido,40,50,90,Hot Lead
+406,Óscar Camacho Cabrero,o.oscarcamachocabrero@mineriareigyasociadoss.com..com,Gerente de Ventas,Minería Reig y asociados S.Com.,Finanzas,Pyme,Web,35,4,1,True,False,Perdido,35,24,59,Warm Lead
+407,Marianela Suárez Arcos,m.marianelasuarezarcos@inmobiliariaquintanas.a..com,Director de Tecnología,Inmobiliaria Quintana S.A.,Salud,Pyme,Evento,25,4,3,True,True,Convertido,35,50,85,Hot Lead
+408,Nieves Nélida Querol Arias,nievesnelidaquerolarias@muñozygamezs.a..es,Director de Ventas,Muñoz y Gámez S.A.,Finanzas,Micro,Formulario,24,3,1,False,False,Perdido,40,13,53,Warm Lead
+409,Águeda Leiva Perales,aguedaleivaperales@hermanosmateos.com..com.es,CMO,Hermanos Mateo S.Com.,Retail,Micro,Email,20,7,2,False,False,Convertido,30,17,47,Warm Lead
+410,Tecla Cabello Goñi,teclacabellogoñi@inversionessalazars.l..es,CTO,Inversiones Salazar S.L.,Tecnología,Micro,Formulario,40,1,1,False,False,Perdido,40,11,51,Warm Lead
+411,Edelmira Riera Borrell,edelmirarieraborrell@supermercadosibericas.l.n.e.es,Product Manager,Supermercados Ibérica S.L.N.E,Finanzas,Pyme,Linkedin,22,10,4,True,True,Convertido,35,50,85,Hot Lead
+412,Perla Tormo Villalonga,perlatormovillalonga@barbero&asociadoss.a..com.es,Director de Operaciones,Barbero & Asociados S.A.,Finanzas,Pyme,Referido,49,7,0,False,True,Convertido,45,50,95,Hot Lead
+413,Graciana Cerdá,gracianacerda@grupofernandezs.l.n.e.com.es,Director de Marketing,Grupo Fernández S.L.N.E,Finanzas,Pyme,Cold Call,25,1,0,True,True,Convertido,45,50,95,Hot Lead
+414,Silvio Barco,s.silviobarco@bancodelnortes.a..com,Director de Operaciones,Banco del Norte S.A.,Educación,Enterprise,Referido,49,5,5,False,False,Perdido,40,15,55,Warm Lead
+415,Ofelia Flor Lledó,o.ofeliaflorlledo@simoyasociadoss.l..com,Director de Ventas,Simó y asociados S.L.,Salud,Enterprise,Email,44,1,0,True,True,Convertido,40,50,90,Hot Lead
+416,Noé Anglada Herranz,noeangladaherranz@torrijosyasociadoss.a..com.es,Asistente Comercial,Torrijos y asociados S.A.,Tecnología,Micro,Formulario,5,0,0,False,True,Perdido,25,45,70,Hot Lead
+417,Maristela Olmo Ocaña,maristelaolmoocaña@infraestructurasbotellas.c.p.es,Gerente de Marketing,Infraestructuras Botella S.C.P,Salud,Enterprise,Email,8,1,0,True,False,Perdido,30,19,49,Warm Lead
+418,Amarilis Cánovas Gargallo,amariliscanovasgargallo@hotelibericas.c.p.com.es,Gerente Comercial,Hotel Ibérica S.C.P,Retail,Enterprise,Referido,8,5,4,True,False,Perdido,30,23,53,Warm Lead
+419,Loida Almagro Agullo,l.loidaalmagroagullo@vivianacatalandurans.coop..com,Sales Manager,Viviana Catalán Duran S.Coop.,Retail,Enterprise,Evento,30,8,1,False,False,Perdido,30,18,48,Warm Lead
+420,Dani Iniesta Mayoral,daniinie@suministrospeñasyasociadoss.coop..com,Director de Operaciones,Suministros Peñas y asociados S.Coop.,Tecnología,Micro,Evento,18,7,4,True,False,Perdido,40,27,67,Warm Lead
+421,Joan Matas,joanmata@calatayudyaguileras.coop..com,Gerente de Ventas,Calatayud y Aguilera S.Coop.,Retail,Pyme,Formulario,0,1,0,False,False,Perdido,25,1,26,Cold Lead
+422,Mar Lumbreras Martín,m.marlumbrerasmartin@tecnologiasros.com..com,Director de Estrategia,Tecnologías RO S.Com.,Retail,Pyme,Linkedin,27,10,1,False,False,Perdido,35,20,55,Warm Lead
+423,Eladio Martín-Fabra,e.eladiomartin-fabra@industriasbarberas.l.l..com,Gerente de Producto,Industrias Barberá S.L.L.,Finanzas,Enterprise,Referido,12,1,0,True,True,Convertido,50,50,100,Hot Lead
+424,Graciana Nadia Montenegro Chaves,g.graciananadiamontenegrochaves@hnosmarquess.c.p.com,Marketing Manager,Hnos Marqués S.C.P,Educación,Pyme,Linkedin,9,0,0,True,True,Convertido,25,50,75,Hot Lead
+425,Graciela Pont Aranda,graciela@manufacturasibericoss.l..com,Business Development,Manufacturas Ibéricos S.L.,Tecnología,Micro,Linkedin,31,3,2,False,False,Perdido,25,13,38,Cold Lead
+426,Yésica Palmer Vendrell,yesicapa@distribucionesescrivayasociadoss.a..com,Marketing Manager,Distribuciones Escrivá y asociados S.A.,Tecnología,Pyme,Linkedin,17,6,0,False,False,Perdido,35,16,51,Warm Lead
+427,Raimundo Jordán España,raimundojordanespaña@borrell&asociadoss.com..es,Director de Tecnología,Borrell & Asociados S.Com.,Tecnología,Micro,Formulario,28,3,0,True,False,Convertido,40,23,63,Warm Lead
+428,Humberto Rufino Muñoz Peral,h.humbertorufinomuñozperal@instalacionessilva&asociadoss.coop..com,Gerente de Marketing,Instalaciones Silva & Asociados S.Coop.,Retail,Pyme,Evento,10,5,5,True,False,Perdido,25,25,50,Warm Lead
+429,Marisa Belda-Sureda,marisabelda-sureda@consultoriadelmediterraneos.coop..com,Director de Estrategia,Consultoría del Mediterráneo S.Coop.,Finanzas,Micro,Formulario,42,3,0,True,False,Convertido,40,23,63,Warm Lead
+430,Amelia Contreras Cervantes,ameliaco@manufacturasdelnoroestes.l.u..com,Asistente Comercial,Manufacturas del Noroeste S.L.U.,Tecnología,Pyme,Linkedin,2,2,2,False,False,Perdido,30,4,34,Cold Lead
+431,Bienvenida Molina Escribano,b.bienvenidamolinaescribano@transportesgjgs.a..com,CTO,Transportes GJG S.A.,Retail,Micro,Formulario,40,0,0,False,False,Perdido,30,10,40,Warm Lead
+432,Cruz Domingo-Cuadrado,c.cruzdomingo-cuadrado@mireiaborjacastillas.coop..com,Director de Tecnología,Mireia Borja Castilla S.Coop.,Salud,Pyme,Formulario,28,3,0,False,False,Perdido,35,13,48,Warm Lead
+433,Graciana Romeu Tejada,gracianaromeutejada@acuñayarellanos.coop..com.es,Coordinador de Ventas,Acuña y Arellano S.Coop.,Retail,Enterprise,Email,31,3,1,False,False,Perdido,40,13,53,Warm Lead
+434,Adoración Montserrat Farré,adoracionmontserratfarre@familiaibarras.a.t..com.es,Asistente Comercial,Familia Ibarra S.A.T.,Educación,Micro,Web,28,4,2,False,False,Perdido,15,14,29,Cold Lead
+435,Esperanza Castelló Calderon,e.esperanzacastellocalderon@vaqueroymazas.a..com,Marketing Manager,Vaquero y Maza S.A.,Salud,Micro,Formulario,39,3,2,False,False,Perdido,20,13,33,Cold Lead
+436,Eustaquio Manso Sarmiento,eustaquiomansosarmiento@roura&asociadoss.com..com.es,Sales Manager,Roura & Asociados S.Com.,Retail,Enterprise,Evento,20,6,5,False,True,Perdido,30,50,80,Hot Lead
+437,Felisa Fabra Cózar,felisafabracozar@aliagaygracias.a.t..com,CTO,Aliaga y Gracia S.A.T.,Salud,Micro,Referido,12,1,0,False,False,Perdido,30,11,41,Warm Lead
+438,Curro Almeida Vargas,c.curroalmeidavargas@consultoriapazoss.l..com,Marketing Manager,Consultoría Pazos S.L.,Educación,Pyme,Web,38,1,0,False,False,Perdido,25,11,36,Cold Lead
+439,Godofredo Jaume Atienza,g.godofredojaumeatienza@familiaallers.a..com,Analista de Ventas,Familia Aller S.A.,Retail,Enterprise,Cold Call,47,6,2,False,True,Perdido,25,50,75,Hot Lead
+440,Horacio Saldaña Pinto,horacios@infraestructuraskkjs.a..com,Marketing Manager,Infraestructuras KKJ S.A.,Tecnología,Pyme,Cold Call,6,0,0,False,False,Perdido,35,6,41,Warm Lead
+441,Nadia Cabrero Viña,nadiacabreroviña@desarrolloriquelme&asociadoss.coop..es,Director de Estrategia,Desarrollo Riquelme & Asociados S.Coop.,Salud,Enterprise,Email,6,4,2,False,False,Perdido,40,10,50,Warm Lead
+442,Azahara Elisabet Carbonell Camino,a.azaharaelisabetcarbonellcamino@heliodorofolchjodars.l.l..com,Director de Marketing,Heliodoro Folch Jódar S.L.L.,Educación,Pyme,Email,10,4,4,False,False,Perdido,35,14,49,Warm Lead
+443,Gastón Redondo,gastonredondo@distribucionesarizayasociadoss.l.n.e.es,Ejecutivo Comercial,Distribuciones Ariza y asociados S.L.N.E,Finanzas,Pyme,Formulario,46,5,4,True,False,Perdido,30,25,55,Warm Lead
+444,Eusebia Guitart Acedo,eusebiaguitartacedo@familiacanos.l.l..es,Marketing Manager,Familia Cano S.L.L.,Finanzas,Pyme,Referido,0,0,0,False,False,Perdido,35,0,35,Cold Lead
+445,Brígida Bosch Vidal,brigidaboschvidal@construccionhxys.c.p.com,Gerente de Producto,Construcción HXY S.C.P,Salud,Micro,Formulario,44,4,4,False,False,Perdido,30,14,44,Warm Lead
+446,Aureliano Díaz Ariza,a.aurelianodiazariza@promocionesmillayasociadoss.l..com,CMO,Promociones Milla y asociados S.L.,Finanzas,Micro,Evento,37,3,1,True,True,Convertido,40,50,90,Hot Lead
+447,Teodoro Arroyo Agustí,teodoroarroyoagusti@distribucionesmulets.com..es,Gerente de Marketing,Distribuciones Mulet S.Com.,Tecnología,Enterprise,Web,31,9,0,False,False,Perdido,40,19,59,Warm Lead
+448,María Ángeles Ledesma Buendía,mariaangelesledesmabuendia@noriega&asociadoss.a..es,Gerente de Ventas,Noriega & Asociados S.A.,Tecnología,Pyme,Referido,7,1,0,False,False,Convertido,35,8,43,Warm Lead
+449,Jessica Llabrés Pol,j.jessicallabrespol@nereidaroblesdiazs.a..com,Gerente de Producto,Nereida Robles Diaz S.A.,Educación,Enterprise,Cold Call,44,3,1,True,False,Perdido,40,23,63,Warm Lead
+450,Telmo Cuervo Calleja,telmocue@tolosayrioss.a..com,Sales Manager,Tolosa y Ríos S.A.,Educación,Enterprise,Referido,18,6,1,True,True,Perdido,30,50,80,Hot Lead
+451,Reyes Palmer Andres,reyespalmerandres@tecnologiastorrentss.a..com.es,CMO,Tecnologías Torrents S.A.,Finanzas,Micro,Referido,49,2,0,False,False,Perdido,40,12,52,Warm Lead
+452,Isabela Arteaga Barroso,isabelaa@logisticaalberola&asociadoss.l.n.e.com,Sales Manager,Logística Alberola & Asociados S.L.N.E,Educación,Enterprise,Web,4,2,1,False,False,Convertido,30,6,36,Cold Lead
+453,Lorenza Zabala Bustos,l.lorenzazabalabustos@ibarraytirados.com..com,Gerente Comercial,Ibarra y Tirado S.Com.,Finanzas,Pyme,Evento,38,10,0,False,True,Convertido,35,50,85,Hot Lead
+454,Brígida Ballester Alberdi,brigidaballesteralberdi@tecnologiasvalcarcels.l.n.e.com,Coordinador de Ventas,Tecnologías Valcárcel S.L.N.E,Educación,Micro,Formulario,14,3,2,True,False,Convertido,30,23,53,Warm Lead
+455,Remigio Tur Montes,remigioturmontes@manufacturasintegraless.a..com,Analista de Marketing,Manufacturas Integrales S.A.,Educación,Micro,Evento,44,1,1,False,True,Convertido,15,50,65,Warm Lead
+456,Leonardo del Quintana,leonardodelquintana@compañiadelnortes.com..com.es,Gerente de Marketing,Compañía del Norte S.Com.,Educación,Enterprise,Referido,39,2,2,False,True,Perdido,30,50,80,Hot Lead
+457,Jacinta Borja-Valentín,j.jacintaborja-valentin@maximianocarreravalencias.l..com,Gerente de Ventas,Maximiano Carrera Valencia S.L.,Finanzas,Micro,Web,50,9,2,True,False,Convertido,30,29,59,Warm Lead
+458,Aurelio Quintanilla Revilla,a.aurelioquintanillarevilla@familiabous.l..com,Gerente de Producto,Familia Bou S.L.,Finanzas,Micro,Formulario,41,6,1,False,False,Perdido,40,16,56,Warm Lead
+459,Merche Encarnacion Verdugo Gabaldón,mercheen@nestorparraballesters.l.l..com,Coordinador de Ventas,Néstor Parra Ballester S.L.L.,Educación,Enterprise,Web,32,7,4,False,True,Convertido,40,50,90,Hot Lead
+460,Eusebia Suárez Parra,eusebias@danilocabanillasgironas.a..com,Gerente de Producto,Danilo Cabanillas Girona S.A.,Retail,Pyme,Linkedin,22,10,2,False,False,Perdido,35,20,55,Warm Lead
+461,Saturnina Manzanares Yuste,saturninamanzanaresyuste@camino&asociadoss.l.n.e.es,Ejecutivo Comercial,Camino & Asociados S.L.N.E,Tecnología,Enterprise,Formulario,1,1,0,True,False,Perdido,35,12,47,Warm Lead
+462,Berta Recio Campo,bertareciocampo@finanzasexposito&asociadoss.l.n.e.es,CMO,Finanzas Expósito & Asociados S.L.N.E,Educación,Enterprise,Web,36,2,1,False,False,Perdido,40,12,52,Warm Lead
+463,Concepción Sebastián Farré,concepci@camposyasociadoss.a..com,Gerente de Marketing,Campos y asociados S.A.,Salud,Enterprise,Formulario,8,2,2,False,False,Perdido,30,10,40,Warm Lead
+464,Beatriz Sanjuan-Sebastián,beatrizsanjuan-sebastian@transportesacostas.coop..com,Analista de Marketing,Transportes Acosta S.Coop.,Educación,Micro,Cold Call,34,1,0,False,False,Perdido,15,11,26,Cold Lead
+465,Leonel Roselló Tomas,l.leonelrosellotomas@farmaceuticacastellanoss.a..com,Coordinador de Ventas,Farmaceútica Castellanos S.A.,Retail,Pyme,Web,49,3,0,True,True,Perdido,35,50,85,Hot Lead
+466,María Dolores Vera Montserrat Varela,mariadoloresveramontserratvarela@riquelmeyhurtados.c.p.com.es,Sales Manager,Riquelme y Hurtado S.C.P,Educación,Enterprise,Web,14,0,0,True,False,Convertido,30,20,50,Warm Lead
+467,Emilia Santamaría Cañellas,emiliasantamariacañellas@solucionesvilas.com..es,Coordinador de Ventas,Soluciones Vila S.Com.,Finanzas,Micro,Referido,8,1,0,False,False,Perdido,40,9,49,Warm Lead
+468,Teodora del Gelabert,teodorad@fabricainteligentess.l..com,Coordinador de Ventas,Fábrica Inteligentes S.L.,Salud,Enterprise,Linkedin,11,3,3,False,False,Perdido,40,13,53,Warm Lead
+469,Pedro Enríquez Vara,p.pedroenriquezvara@carlosyasociadoss.coop..com,Product Manager,Carlos y asociados S.Coop.,Tecnología,Enterprise,Referido,39,9,4,False,False,Perdido,40,19,59,Warm Lead
+470,Marianela Rincón-Macias,marianelarincon-macias@albertoyyañezs.a..com,CEO,Alberto y Yáñez S.A.,Retail,Pyme,Web,33,8,3,False,True,Convertido,35,50,85,Hot Lead
+471,Blanca Baena Barbero,blancabaenabarbero@inmobiliariaiberias.l.u..es,Analista de Ventas,Inmobiliaria Iberia S.L.U.,Salud,Pyme,Evento,49,4,3,True,True,Perdido,20,50,70,Hot Lead
+472,Camilo Barrios-Marquez,camilobarrios-marquez@bancodellevantes.l.l..com,Gerente de Marketing,Banco del Levante S.L.L.,Retail,Enterprise,Email,32,1,0,False,False,Perdido,30,11,41,Warm Lead
+473,Mario Gomez Porcel,mariogom@instalacionescastellanas.l.n.e.com,Director de Tecnología,Instalaciones Castellana S.L.N.E,Finanzas,Pyme,Referido,37,3,3,True,True,Convertido,45,50,95,Hot Lead
+474,Hilda Milla Balaguer,hildamillabalaguer@hermanosfrancos.coop..es,Analista de Marketing,Hermanos Franco S.Coop.,Tecnología,Micro,Email,23,1,1,False,False,Perdido,25,11,36,Cold Lead
+475,Saturnina Gomis Pedro,s.saturninagomispedro@finanzasinteligentess.coop..com,Director Comercial,Finanzas Inteligentes S.Coop.,Retail,Micro,Cold Call,42,2,0,False,False,Perdido,30,12,42,Warm Lead
+476,Ciro Durán Vilaplana,cirodura@restauracionwcs.a..com,Gerente de Producto,Restauración WC S.A.,Retail,Pyme,Linkedin,8,1,0,False,False,Perdido,35,9,44,Warm Lead
+477,Soraya Jara-Adán,sorayaja@soler&asociadoss.a..com,Asistente Comercial,Soler & Asociados S.A.,Tecnología,Enterprise,Web,37,10,3,False,False,Perdido,35,20,55,Warm Lead
+478,María Azcona Mascaró,mariaazc@montserratpalmabeltrans.l..com,COO,Montserrat Palma Beltran S.L.,Finanzas,Enterprise,Linkedin,11,1,0,False,True,Perdido,50,50,100,Hot Lead
+479,Lucila Gimeno Espejo,lucilagimenoespejo@distribucionescuss.l.n.e.com,Product Manager,Distribuciones CUS S.L.N.E,Educación,Pyme,Linkedin,6,3,1,True,True,Perdido,25,50,75,Hot Lead
+480,Eusebia Palomo Marin,eusebiapalomomarin@tecnologiasavanzadass.a..com.es,Sales Manager,Tecnologías Avanzadas S.A.,Educación,Micro,Evento,2,0,0,False,False,Perdido,20,2,22,Cold Lead
+481,Itziar Hernandez Hervás,itziarhe@hermanospizarros.l.n.e.com,Asistente Comercial,Hermanos Pizarro S.L.N.E,Tecnología,Pyme,Linkedin,44,4,2,False,False,Perdido,30,14,44,Warm Lead
+482,Guadalupe Jerez Luna,guadalupejerezluna@hermanosvilars.l..com,Gerente de Ventas,Hermanos Vilar S.L.,Educación,Enterprise,Referido,46,9,5,True,False,Convertido,30,29,59,Warm Lead
+483,Lara Arranz Martin,laraarranzmartin@logisticaespañolas.l.n.e.com.es,Sales Manager,Logística Española S.L.N.E,Finanzas,Micro,Referido,33,10,3,False,True,Perdido,30,50,80,Hot Lead
+484,Rolando Aguilera Bastida,rolandoaguilerabastida@fabricadelnoroestes.l.l..es,Analista de Marketing,Fábrica del Noroeste S.L.L.,Tecnología,Micro,Email,50,1,0,False,False,Perdido,25,11,36,Cold Lead
+485,Julio César Rozas,j.juliocesarrozas@despachoxrs.a..com,Sales Manager,Despacho XR S.A.,Salud,Micro,Evento,50,1,1,True,False,Perdido,20,21,41,Warm Lead
+486,Chuy Infante Bejarano,chuyinfantebejarano@infraestructurasdelnoroestes.com..com.es,Director de Operaciones,Infraestructuras del Noroeste S.Com.,Finanzas,Pyme,Cold Call,1,0,0,False,False,Perdido,45,1,46,Warm Lead
+487,Iris Molina Alegria,irismolinaalegria@carrascoyaguados.l..es,Analista de Ventas,Carrasco y Aguado S.L.,Salud,Pyme,Formulario,34,5,3,False,False,Perdido,20,15,35,Cold Lead
+488,Ana Belén Prudencia Arroyo Belmonte,anabelenprudenciaarroyobelmonte@valverde&asociadoss.c.p.com.es,Ejecutivo Comercial,Valverde & Asociados S.C.P,Educación,Enterprise,Cold Call,1,0,0,False,False,Perdido,25,1,26,Cold Lead
+489,Marcio Armando Lucena Río,marcioarmandolucenario@pratsyanguitas.coop..com.es,Ejecutivo Comercial,Prats y Anguita S.Coop.,Tecnología,Pyme,Formulario,10,4,4,False,False,Perdido,30,14,44,Warm Lead
+490,Constanza de Portillo,c.constanzadeportillo@despachomartiyasociadoss.l.n.e.com,Business Development,Despacho Martí y asociados S.L.N.E,Finanzas,Enterprise,Referido,5,3,1,False,False,Perdido,35,8,43,Warm Lead
+491,Leonel Cid Casal,leonelcidcasal@familiaprados.coop..com,Gerente de Marketing,Familia Prado S.Coop.,Tecnología,Pyme,Formulario,12,1,1,False,False,Perdido,35,11,46,Warm Lead
+492,Ezequiel Gallo Núñez,e.ezequielgallonuñez@solucionesglobaless.a..com,Director de Operaciones,Soluciones Globales S.A.,Retail,Enterprise,Formulario,20,2,0,False,False,Perdido,40,12,52,Warm Lead
+493,Mario del Ferrera,mariodelferrera@farmaceuticapssws.l.u..com.es,Director de Estrategia,Farmaceútica PSSW S.L.U.,Tecnología,Pyme,Linkedin,0,1,0,False,False,Convertido,45,1,46,Warm Lead
+494,Mireia Beltran Manso,mireiabeltranmanso@infraestructuraskes.l.n.e.com,Gerente de Ventas,Infraestructuras KE S.L.N.E,Tecnología,Enterprise,Cold Call,48,4,1,True,True,Convertido,40,50,90,Hot Lead
+495,Belen Guitart Cabo,belengui@comercializadoraferreryasociadoss.coop..com,Gerente Comercial,Comercializadora Ferrer y asociados S.Coop.,Tecnología,Pyme,Evento,7,0,0,False,False,Perdido,35,7,42,Warm Lead
+496,María Manuela Maza Corominas,mariaman@molinayasociadoss.a..com,Director de Estrategia,Molina y asociados S.A.,Finanzas,Enterprise,Linkedin,19,9,2,False,True,Convertido,50,50,100,Hot Lead
+497,Delia Giralt Rubio,deliagiraltrubio@promocionescañizaresyasociadoss.l.n.e.com,Analista de Ventas,Promociones Cañizares y asociados S.L.N.E,Tecnología,Pyme,Referido,25,2,2,False,False,Perdido,30,12,42,Warm Lead
+498,Itziar Palmer Mayoral,itziarpa@carmencampsechevarrias.l..com,Sales Manager,Carmen Camps Echevarría S.L.,Finanzas,Pyme,Email,48,10,4,True,False,Perdido,35,30,65,Warm Lead
+499,Sosimo Lozano Chaves,s.sosimolozanochaves@infraestructurasespañolas.l..com,Gerente de Ventas,Infraestructuras Española S.L.,Retail,Micro,Email,41,7,3,True,True,Perdido,20,50,70,Hot Lead
+500,Teobaldo Vendrell Anguita,t.teobaldovendrellanguita@garciayarcos.coop..com,Gerente de Producto,Garcia y Arco S.Coop.,Retail,Micro,Referido,31,0,0,False,False,Perdido,30,10,40,Warm Lead
